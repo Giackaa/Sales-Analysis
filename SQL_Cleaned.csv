@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Category,Item,Price_Per_Unit,Quantity,Total_Spent,Payment_Method,Location,Transaction_Date,Discount_Applied
+6867343,9,Patisserie,Item_10_PAT,19,10,185,"Digital Wallet",Online,2024-04-08,TRUE
+3731986,22,"Milk Products",Item_17_MILK,29,9,261,"Digital Wallet",Online,2023-07-23,FALSE
+9303719,2,Butchers,Item_12_BUT,22,2,43,"Credit Card",Online,2022-10-05,TRUE
+9458126,6,Beverages,Item_16_BEV,28,9,247.5,"Credit Card",Online,2022-05-07,TRUE
+4575373,5,Food,Item_6_FOOD,13,7,87.5,"Digital Wallet",Online,2022-10-02,TRUE
+7482416,9,Patisserie,NULL,20,10,200,"Credit Card",Online,2023-11-30,FALSE
+3652209,7,Food,Item_1_FOOD,5,8,40,"Credit Card",In-store,2023-06-10,FALSE
+9728486,23,Furniture,Item_16_FUR,28,1,27.5,"Credit Card",In-store,2023-04-26,TRUE
+2722661,25,Butchers,Item_22_BUT,37,3,109.5,Cash,Online,2024-03-14,TRUE
+8776416,22,Butchers,Item_3_BUT,8,9,72,Cash,In-store,2024-12-14,FALSE
+5422631,9,"Milk Products",NULL,6,8,52,"Digital Wallet",In-store,2025-01-12,TRUE
+5874772,23,Food,Item_2_FOOD,7,7,45.5,Cash,Online,2023-09-09,TRUE
+4413070,14,Patisserie,Item_24_PAT,40,6,237,"Digital Wallet",In-store,2022-05-20,TRUE
+2490363,9,"Milk Products",Item_16_MILK,28,2,55,"Digital Wallet",Online,2022-05-22,TRUE
+7563311,23,Patisserie,Item_17_PAT,29,8,232,Cash,Online,2024-11-16,FALSE
+9634894,15,"Milk Products",NULL,28,10,275,"Digital Wallet",Online,2022-04-17,TRUE
+4396807,17,"Electric household essentials",Item_13_EHE,23,1,23,"Digital Wallet",In-store,2022-02-07,FALSE
+9939063,14,Beverages,Item_7_BEV,14,9,126,"Digital Wallet",In-store,2024-01-14,FALSE
+8685338,15,"Milk Products",NULL,35,3,105,"Credit Card",In-store,2023-10-29,FALSE
+6547964,10,"Electric household essentials",Item_4_EHE,10,7,66.5,Cash,In-store,2022-08-15,TRUE
+3314099,4,Food,Item_10_FOOD,19,1,18.5,Cash,Online,2023-09-30,TRUE
+9980736,13,Furniture,Item_14_FUR,25,2,49,Cash,Online,2023-08-29,TRUE
+9057609,18,Butchers,Item_20_BUT,34,4,134,"Credit Card",In-store,2022-03-16,TRUE
+1599706,14,Furniture,Item_25_FUR,41,10,410,"Credit Card",In-store,2024-03-24,FALSE
+1598860,8,Food,Item_14_FOOD,25,10,245,Cash,In-store,2022-10-23,TRUE
+7138501,18,Patisserie,Item_22_PAT,37,5,182.5,"Credit Card",In-store,2022-03-10,TRUE
+5444504,5,Food,Item_11_FOOD,20,10,200,"Digital Wallet",Online,2022-04-26,FALSE
+4353295,22,Patisserie,Item_6_PAT,13,8,100,"Credit Card",Online,2022-04-05,TRUE
+1543244,20,Food,NULL,24,8,196,"Credit Card",Online,2024-10-25,TRUE
+1494700,12,"Electric household essentials",Item_21_EHE,35,9,315,"Credit Card",In-store,2024-03-07,FALSE
+6398436,15,Beverages,Item_25_BEV,41,7,287,"Credit Card",In-store,2024-06-03,FALSE
+9065245,2,Food,Item_23_FOOD,38,2,76,"Digital Wallet",In-store,2024-03-10,FALSE
+6963438,11,Furniture,Item_10_FUR,19,5,92.5,"Credit Card",Online,2024-04-23,TRUE
+8312797,14,Beverages,Item_11_BEV,20,5,100,"Digital Wallet",Online,2022-06-03,FALSE
+5836005,19,Butchers,Item_23_BUT,38,5,190,"Credit Card",In-store,2024-10-19,FALSE
+4223250,16,Beverages,Item_22_BEV,37,7,255.5,Cash,Online,2023-05-31,TRUE
+1019817,16,"Electric household essentials",Item_10_EHE,19,5,92.5,Cash,Online,2022-08-01,TRUE
+1110407,25,Butchers,Item_24_BUT,40,7,276.5,"Digital Wallet",In-store,2022-10-21,TRUE
+6276518,24,Beverages,Item_8_BEV,16,3,46.5,Cash,In-store,2024-04-08,TRUE
+4740738,25,Food,Item_3_FOOD,8,1,8,"Digital Wallet",In-store,2022-04-19,FALSE
+9587232,20,Food,Item_12_FOOD,22,5,107.5,"Digital Wallet",Online,2023-02-28,TRUE
+6404316,4,"Computers and electric accessories",Item_16_CEA,28,6,165,"Credit Card",Online,2022-04-06,TRUE
+9331642,12,Patisserie,Item_11_PAT,20,4,80,"Credit Card",Online,2022-07-06,FALSE
+9729422,13,Butchers,Item_16_BUT,28,6,165,"Credit Card",Online,2024-12-31,TRUE
+8425168,25,"Milk Products",Item_16_MILK,28,7,192.5,Cash,In-store,2022-03-12,TRUE
+5379241,5,Butchers,Item_20_BUT,34,10,335,"Credit Card",In-store,2023-04-12,TRUE
+8413369,23,"Computers and electric accessories",Item_5_CEA,11,6,66,"Credit Card",Online,2024-03-09,FALSE
+4836321,21,Food,Item_12_FOOD,22,10,215,"Digital Wallet",In-store,2023-01-14,TRUE
+9451794,24,"Milk Products",Item_19_MILK,32,3,96,"Credit Card",Online,2024-01-28,FALSE
+8218431,1,Furniture,Item_23_FUR,38,5,190,"Digital Wallet",Online,2023-04-29,FALSE
+2383377,15,Furniture,Item_7_FUR,14,3,42,"Digital Wallet",In-store,2023-04-02,FALSE
+7909783,12,"Computers and electric accessories",Item_5_CEA,11,1,11,"Credit Card",Online,2023-12-17,FALSE
+5046007,7,"Computers and electric accessories",Item_15_CEA,26,9,234,Cash,Online,2024-07-22,FALSE
+6966182,2,Furniture,Item_16_FUR,28,9,247.5,Cash,Online,2024-09-06,TRUE
+3424571,9,"Milk Products",Item_6_MILK,13,7,87.5,"Credit Card",Online,2023-01-13,TRUE
+6820452,10,"Computers and electric accessories",Item_24_CEA,40,8,316,"Credit Card",In-store,2023-04-18,TRUE
+1998771,25,"Milk Products",Item_16_MILK,28,3,82.5,"Digital Wallet",Online,2024-11-07,TRUE
+1132097,24,Patisserie,Item_11_PAT,20,9,180,"Credit Card",In-store,2023-05-18,FALSE
+5418871,4,"Computers and electric accessories",Item_22_CEA,37,7,255.5,Cash,In-store,2022-03-16,TRUE
+6952276,1,Food,Item_22_FOOD,37,10,365,"Credit Card",Online,2024-08-02,TRUE
+6340470,17,Butchers,Item_2_BUT,7,6,39,"Credit Card",In-store,2022-10-12,TRUE
+5885894,1,Patisserie,Item_14_PAT,25,10,245,"Credit Card",In-store,2022-02-09,TRUE
+3671271,18,Patisserie,Item_12_PAT,22,8,172,Cash,In-store,2023-11-27,TRUE
+2719047,3,Butchers,Item_20_BUT,34,4,134,"Credit Card",Online,2023-11-21,TRUE
+9908330,19,Food,Item_18_FOOD,31,4,122,"Credit Card",Online,2022-09-29,TRUE
+2016332,17,Patisserie,Item_1_PAT,5,6,30,"Digital Wallet",Online,2022-12-17,FALSE
+7363165,25,Beverages,Item_4_BEV,10,7,66.5,"Digital Wallet",In-store,2023-03-25,TRUE
+1260450,25,Furniture,Item_22_FUR,37,10,365,"Digital Wallet",In-store,2023-12-24,TRUE
+6315447,21,Patisserie,Item_7_PAT,14,9,126,"Digital Wallet",In-store,2025-01-12,FALSE
+5973228,12,Beverages,Item_7_BEV,14,6,84,"Digital Wallet",Online,2023-12-25,FALSE
+2780662,2,"Milk Products",Item_19_MILK,32,10,320,"Digital Wallet",In-store,2023-01-19,FALSE
+1142481,2,Beverages,Item_22_BEV,37,6,219,Cash,In-store,2023-02-07,TRUE
+3933685,9,"Computers and electric accessories",Item_20_CEA,34,10,335,"Credit Card",Online,2022-04-15,TRUE
+8955685,24,Food,Item_20_FOOD,34,2,67,"Digital Wallet",Online,2023-04-24,TRUE
+1061030,20,"Computers and electric accessories",Item_22_CEA,37,4,146,"Digital Wallet",Online,2024-07-14,TRUE
+7821493,7,Patisserie,Item_17_PAT,29,10,290,"Credit Card",In-store,2024-12-17,FALSE
+8114453,10,"Electric household essentials",Item_21_EHE,35,2,70,"Digital Wallet",In-store,2023-05-09,FALSE
+8024803,9,Furniture,Item_11_FUR,20,8,160,"Digital Wallet",In-store,2024-08-22,FALSE
+5062634,4,Patisserie,Item_25_PAT,41,2,82,"Credit Card",Online,2023-07-06,FALSE
+8244728,8,Food,Item_7_FOOD,14,1,14,"Credit Card",In-store,2024-04-27,FALSE
+3858145,17,Furniture,Item_21_FUR,35,3,105,"Digital Wallet",Online,2023-04-01,FALSE
+2646301,18,Furniture,Item_24_FUR,40,9,355.5,"Credit Card",In-store,2022-12-07,TRUE
+2414530,24,"Milk Products",Item_8_MILK,16,8,124,Cash,Online,2024-06-20,TRUE
+8322008,22,Food,Item_4_FOOD,10,3,28.5,Cash,In-store,2024-08-20,TRUE
+3035546,19,Beverages,Item_14_BEV,25,2,49,"Credit Card",In-store,2023-07-12,TRUE
+7296720,18,Patisserie,Item_4_PAT,10,5,47.5,Cash,Online,2024-09-12,TRUE
+8414071,20,Patisserie,Item_12_PAT,22,9,193.5,Cash,In-store,2023-05-02,TRUE
+5705131,19,"Milk Products",Item_4_MILK,10,4,38,"Digital Wallet",Online,2024-03-27,TRUE
+5938028,18,"Computers and electric accessories",Item_7_CEA,14,1,14,"Digital Wallet",Online,2023-02-20,FALSE
+1958345,8,"Electric household essentials",Item_4_EHE,10,8,76,Cash,In-store,2024-06-28,TRUE
+1528585,15,"Electric household essentials",Item_6_EHE,13,1,12.5,"Credit Card",In-store,2024-09-17,TRUE
+9619859,1,Butchers,Item_21_BUT,35,4,140,Cash,In-store,2024-04-05,FALSE
+6158929,21,Food,Item_11_FOOD,20,6,120,Cash,Online,2022-01-29,FALSE
+7209607,25,Food,Item_18_FOOD,31,6,183,"Credit Card",In-store,2023-08-25,TRUE
+5328604,7,Food,Item_20_FOOD,34,10,335,Cash,Online,2024-07-08,TRUE
+4324641,1,Patisserie,Item_16_PAT,28,6,165,Cash,In-store,2023-11-07,TRUE
+9464391,4,Food,Item_18_FOOD,31,10,305,Cash,Online,2023-11-17,TRUE
+2940500,6,"Computers and electric accessories",Item_25_CEA,41,1,41,Cash,In-store,2024-11-05,FALSE
+1945960,9,Butchers,Item_8_BUT,16,10,155,"Digital Wallet",In-store,2023-04-06,TRUE
+8219228,17,"Computers and electric accessories",Item_10_CEA,19,5,92.5,Cash,Online,2022-05-27,TRUE
+5471094,14,Butchers,Item_2_BUT,7,3,19.5,"Digital Wallet",In-store,2022-08-24,TRUE
+9255329,1,Furniture,Item_25_FUR,41,7,287,"Digital Wallet",In-store,2022-03-02,FALSE
+9279462,25,Furniture,Item_5_FUR,11,3,33,"Credit Card",In-store,2022-02-05,FALSE
+7956502,6,Butchers,Item_8_BUT,16,7,108.5,"Credit Card",In-store,2024-04-30,TRUE
+1352831,4,Food,Item_22_FOOD,37,3,109.5,"Credit Card",Online,2023-10-31,TRUE
+4372655,8,Food,Item_9_FOOD,17,7,119,Cash,In-store,2024-11-03,FALSE
+7655704,11,"Computers and electric accessories",Item_21_CEA,35,8,280,"Digital Wallet",Online,2022-08-08,FALSE
+6908058,25,"Computers and electric accessories",Item_8_CEA,16,10,155,Cash,In-store,2023-07-22,TRUE
+9204828,7,"Computers and electric accessories",Item_25_CEA,41,7,287,Cash,Online,2022-03-05,FALSE
+3208232,25,"Electric household essentials",Item_8_EHE,16,4,62,"Digital Wallet",In-store,2024-01-13,TRUE
+2212643,9,Food,Item_3_FOOD,8,4,32,"Credit Card",In-store,2022-12-29,FALSE
+8215469,17,"Milk Products",Item_23_MILK,38,10,380,"Digital Wallet",In-store,2024-03-16,FALSE
+3403695,25,Beverages,Item_23_BEV,38,8,304,Cash,Online,2024-09-27,FALSE
+2878134,18,Butchers,Item_8_BUT,16,9,139.5,"Credit Card",In-store,2024-05-10,TRUE
+3123571,15,Furniture,Item_23_FUR,38,3,114,"Digital Wallet",Online,2022-08-07,FALSE
+9940030,25,Beverages,Item_19_BEV,32,6,192,"Credit Card",In-store,2022-01-19,FALSE
+6195024,13,Beverages,Item_20_BEV,34,5,167.5,Cash,Online,2024-08-09,TRUE
+5243520,13,Patisserie,Item_10_PAT,19,5,92.5,Cash,In-store,2024-05-16,TRUE
+4608122,21,Butchers,NULL,28,10,275,"Digital Wallet",Online,2022-10-01,TRUE
+6923419,17,Furniture,Item_5_FUR,11,8,88,"Digital Wallet",Online,2022-06-28,FALSE
+1112365,19,Food,Item_24_FOOD,40,10,395,Cash,Online,2023-09-24,TRUE
+6989569,11,"Milk Products",Item_21_MILK,35,2,70,"Credit Card",In-store,2022-01-17,FALSE
+5647023,12,Furniture,Item_24_FUR,40,4,158,"Digital Wallet",In-store,2022-04-14,TRUE
+8049831,18,Beverages,Item_6_BEV,13,2,25,Cash,In-store,2023-01-05,TRUE
+2953434,25,Furniture,Item_25_FUR,41,10,410,"Credit Card",In-store,2023-08-10,FALSE
+3831408,18,"Milk Products",Item_1_MILK,5,10,50,"Digital Wallet",Online,2022-02-11,FALSE
+1249742,5,"Milk Products",Item_24_MILK,40,10,395,"Digital Wallet",Online,2024-03-21,TRUE
+4633046,13,"Computers and electric accessories",Item_2_CEA,7,5,32.5,"Digital Wallet",Online,2023-08-25,TRUE
+3519817,22,Butchers,Item_18_BUT,31,4,122,"Digital Wallet",Online,2022-06-14,TRUE
+4801202,16,Furniture,Item_1_FUR,5,3,15,"Digital Wallet",Online,2024-05-31,FALSE
+6149882,9,Beverages,Item_20_BEV,34,1,33.5,"Credit Card",Online,2023-01-22,TRUE
+8809000,23,"Milk Products",Item_3_MILK,8,3,24,Cash,In-store,2023-01-10,FALSE
+5008001,3,"Electric household essentials",Item_10_EHE,19,6,111,"Credit Card",Online,2024-11-04,TRUE
+5111184,19,"Milk Products",Item_11_MILK,20,6,120,"Credit Card",Online,2024-07-18,FALSE
+1499774,7,Butchers,Item_3_BUT,8,5,40,"Credit Card",In-store,2022-12-15,FALSE
+2565828,21,Food,Item_24_FOOD,40,10,395,"Credit Card",Online,2022-02-18,TRUE
+6312937,14,"Computers and electric accessories",Item_13_CEA,23,2,46,"Digital Wallet",In-store,2024-02-09,FALSE
+8775503,8,"Computers and electric accessories",Item_6_CEA,13,2,25,"Digital Wallet",In-store,2024-10-11,TRUE
+3541663,25,Furniture,Item_2_FUR,7,5,32.5,"Digital Wallet",In-store,2023-07-19,TRUE
+4947386,13,Food,Item_18_FOOD,31,10,305,Cash,Online,2024-11-12,TRUE
+4276451,17,Beverages,Item_22_BEV,37,1,36.5,"Credit Card",Online,2024-05-27,TRUE
+3380295,8,Beverages,Item_6_BEV,13,5,62.5,Cash,Online,2023-02-08,TRUE
+1390866,9,Patisserie,Item_6_PAT,13,2,25,"Digital Wallet",In-store,2024-03-30,TRUE
+8616546,9,Beverages,Item_21_BEV,35,8,280,"Credit Card",Online,2023-04-01,FALSE
+1804192,20,Furniture,Item_8_FUR,16,9,139.5,Cash,Online,2024-06-07,TRUE
+5046818,2,Butchers,Item_22_BUT,37,6,219,"Digital Wallet",In-store,2024-07-03,TRUE
+4626993,24,Butchers,Item_13_BUT,23,7,161,"Credit Card",Online,2023-08-23,FALSE
+5256349,25,Beverages,Item_2_BEV,7,4,26,"Digital Wallet",Online,2022-09-27,TRUE
+3822751,21,Butchers,NULL,14,9,126,"Digital Wallet",In-store,2024-03-04,FALSE
+1882210,13,Food,Item_14_FOOD,25,4,98,"Digital Wallet",In-store,2022-03-02,TRUE
+9209383,12,"Electric household essentials",Item_7_EHE,14,9,126,"Credit Card",In-store,2024-09-16,FALSE
+2196324,11,Butchers,Item_21_BUT,35,9,315,Cash,In-store,2024-02-08,FALSE
+7020797,22,Food,Item_9_FOOD,17,5,85,"Digital Wallet",In-store,2024-04-20,FALSE
+7594834,22,Furniture,Item_25_FUR,41,1,41,"Credit Card",In-store,2024-03-16,FALSE
+3229559,2,Beverages,Item_7_BEV,14,9,126,"Digital Wallet",Online,2022-12-02,FALSE
+1336269,19,Beverages,Item_7_BEV,14,6,84,"Digital Wallet",Online,2024-12-25,FALSE
+2479337,10,Patisserie,Item_25_PAT,41,7,287,"Credit Card",In-store,2023-08-05,FALSE
+8784273,25,"Computers and electric accessories",Item_14_CEA,25,4,98,Cash,In-store,2022-05-02,TRUE
+7771182,10,"Electric household essentials",Item_19_EHE,32,6,192,"Credit Card",In-store,2022-01-20,FALSE
+1132339,1,Beverages,Item_11_BEV,20,4,80,"Credit Card",Online,2023-07-12,FALSE
+8283332,16,Beverages,Item_23_BEV,38,6,228,Cash,Online,2023-11-13,FALSE
+9496190,18,"Computers and electric accessories",Item_18_CEA,31,3,91.5,Cash,Online,2024-02-24,TRUE
+5205620,17,Patisserie,Item_11_PAT,20,7,140,Cash,In-store,2023-06-26,FALSE
+4448047,3,"Milk Products",Item_8_MILK,16,6,93,"Credit Card",Online,2022-06-15,TRUE
+2163190,20,Patisserie,Item_16_PAT,28,2,55,"Digital Wallet",Online,2022-05-30,TRUE
+3338914,16,Food,Item_20_FOOD,34,10,335,"Digital Wallet",Online,2024-05-29,TRUE
+8959624,9,"Milk Products",Item_1_MILK,5,7,35,"Digital Wallet",Online,2024-12-18,FALSE
+1821423,22,Furniture,Item_25_FUR,41,2,82,"Credit Card",Online,2022-01-13,FALSE
+9760482,7,"Computers and electric accessories",Item_11_CEA,20,9,180,"Digital Wallet",In-store,2023-01-06,FALSE
+8460432,15,Furniture,Item_5_FUR,11,8,88,"Digital Wallet",Online,2022-02-05,FALSE
+8136588,7,"Milk Products",Item_16_MILK,28,7,192.5,"Digital Wallet",In-store,2022-10-24,TRUE
+6630594,7,"Milk Products",Item_3_MILK,8,5,40,Cash,In-store,2023-12-03,FALSE
+4844684,20,Butchers,Item_20_BUT,34,5,167.5,"Digital Wallet",Online,2022-07-23,TRUE
+9882772,9,Furniture,Item_17_FUR,29,9,261,Cash,Online,2023-08-07,FALSE
+2611065,4,"Milk Products",Item_15_MILK,26,8,208,Cash,In-store,2023-02-05,FALSE
+9896056,10,"Electric household essentials",Item_20_EHE,34,3,100.5,"Digital Wallet",Online,2022-12-29,TRUE
+2749184,24,Food,Item_20_FOOD,34,5,167.5,"Credit Card",Online,2023-04-18,TRUE
+3135312,11,"Electric household essentials",Item_16_EHE,28,10,275,Cash,Online,2022-09-27,TRUE
+4879766,13,"Computers and electric accessories",Item_20_CEA,34,4,134,"Digital Wallet",Online,2023-06-03,TRUE
+5822350,16,"Electric household essentials",Item_23_EHE,38,1,38,Cash,In-store,2022-03-21,FALSE
+2755139,21,"Milk Products",Item_4_MILK,10,1,9.5,"Digital Wallet",Online,2023-12-19,TRUE
+1484334,1,Butchers,Item_7_BUT,14,3,42,Cash,Online,2023-03-19,FALSE
+3557526,21,"Computers and electric accessories",Item_16_CEA,28,9,247.5,"Digital Wallet",In-store,2023-12-25,TRUE
+8960682,25,"Electric household essentials",Item_1_EHE,5,2,10,Cash,Online,2023-06-10,FALSE
+8973416,13,Butchers,Item_13_BUT,23,6,138,Cash,In-store,2022-09-10,FALSE
+5487046,22,"Computers and electric accessories",Item_19_CEA,32,9,288,Cash,Online,2022-06-06,FALSE
+5945222,4,Butchers,Item_20_BUT,34,5,167.5,"Digital Wallet",In-store,2024-08-11,TRUE
+1334483,17,"Computers and electric accessories",Item_11_CEA,20,3,60,Cash,Online,2023-07-17,FALSE
+8777313,20,Food,Item_25_FOOD,41,3,123,"Digital Wallet",In-store,2023-04-20,FALSE
+2690179,12,"Electric household essentials",Item_12_EHE,22,2,43,"Digital Wallet",In-store,2023-09-09,TRUE
+2795990,3,"Electric household essentials",Item_22_EHE,37,2,73,"Digital Wallet",In-store,2024-07-15,TRUE
+1402493,24,Furniture,Item_24_FUR,40,5,197.5,"Credit Card",In-store,2024-11-27,TRUE
+2438514,15,Patisserie,Item_13_PAT,23,3,69,"Digital Wallet",Online,2024-02-13,FALSE
+6229786,4,Food,Item_18_FOOD,31,2,61,Cash,In-store,2022-01-20,TRUE
+6490151,8,"Computers and electric accessories",Item_21_CEA,35,4,140,"Digital Wallet",In-store,2024-10-17,FALSE
+9331694,13,"Computers and electric accessories",Item_2_CEA,7,8,52,"Credit Card",Online,2023-12-09,TRUE
+8547389,11,"Electric household essentials",Item_17_EHE,29,4,116,Cash,Online,2022-05-26,FALSE
+7324151,16,"Computers and electric accessories",Item_21_CEA,35,2,70,"Credit Card",In-store,2024-08-30,FALSE
+1588276,20,Butchers,Item_8_BUT,16,3,46.5,"Digital Wallet",In-store,2022-10-08,TRUE
+6590263,14,Patisserie,Item_1_PAT,5,7,35,"Digital Wallet",Online,2024-12-11,FALSE
+2251132,20,Food,Item_6_FOOD,13,4,50,Cash,Online,2024-07-15,TRUE
+1048755,5,Butchers,Item_25_BUT,41,3,123,"Credit Card",Online,2024-10-06,FALSE
+2530704,25,Butchers,Item_23_BUT,38,2,76,"Digital Wallet",In-store,2024-01-04,FALSE
+7804271,22,Patisserie,NULL,5,8,40,Cash,Online,2023-02-10,FALSE
+6926974,22,"Computers and electric accessories",Item_4_CEA,10,5,47.5,"Credit Card",Online,2024-10-16,TRUE
+1722933,20,"Computers and electric accessories",Item_21_CEA,35,7,245,Cash,Online,2023-08-12,FALSE
+5846723,5,Patisserie,Item_10_PAT,19,3,55.5,Cash,In-store,2024-01-28,TRUE
+8759839,10,"Milk Products",Item_2_MILK,7,1,6.5,"Digital Wallet",Online,2024-06-03,TRUE
+1747548,4,Beverages,Item_25_BEV,41,2,82,"Digital Wallet",Online,2024-11-06,FALSE
+2202698,16,"Milk Products",Item_8_MILK,16,6,93,"Digital Wallet",In-store,2022-08-18,TRUE
+7296074,23,"Computers and electric accessories",Item_18_CEA,31,5,152.5,"Credit Card",Online,2022-10-09,TRUE
+8786633,16,Patisserie,Item_24_PAT,40,3,118.5,"Credit Card",Online,2022-09-14,TRUE
+4174281,19,Butchers,Item_1_BUT,5,7,35,"Digital Wallet",In-store,2023-04-18,FALSE
+3866783,12,Food,Item_25_FOOD,41,3,123,"Credit Card",In-store,2022-03-27,FALSE
+9048177,8,Patisserie,Item_6_PAT,13,2,25,"Digital Wallet",In-store,2023-11-03,TRUE
+8842339,22,Beverages,Item_12_BEV,22,8,172,"Digital Wallet",In-store,2023-05-14,TRUE
+6288602,12,Butchers,Item_21_BUT,35,8,280,"Credit Card",In-store,2023-11-28,FALSE
+3805794,5,Butchers,Item_23_BUT,38,5,190,"Credit Card",Online,2024-08-29,FALSE
+5488509,21,Butchers,Item_16_BUT,28,7,192.5,"Digital Wallet",Online,2022-02-12,TRUE
+4878744,2,"Electric household essentials",Item_10_EHE,19,4,74,"Digital Wallet",Online,2022-06-26,TRUE
+3303186,6,Food,Item_5_FOOD,11,6,66,"Credit Card",In-store,2022-06-10,FALSE
+8503614,12,"Electric household essentials",Item_21_EHE,35,3,105,"Credit Card",Online,2022-12-14,FALSE
+7214951,4,Beverages,Item_25_BEV,41,5,205,Cash,In-store,2023-10-12,FALSE
+7423171,21,Food,Item_12_FOOD,22,7,150.5,"Digital Wallet",In-store,2024-09-13,TRUE
+1583510,11,"Computers and electric accessories",Item_5_CEA,11,10,110,Cash,Online,2024-01-29,FALSE
+7443511,8,"Milk Products",Item_1_MILK,5,2,10,"Digital Wallet",Online,2023-05-07,FALSE
+4394615,20,"Milk Products",Item_4_MILK,10,2,19,"Credit Card",In-store,2024-10-20,TRUE
+3755291,9,"Milk Products",Item_2_MILK,7,1,6.5,Cash,Online,2022-11-15,TRUE
+3557501,8,Food,Item_3_FOOD,8,6,48,"Credit Card",In-store,2024-01-10,FALSE
+9827245,2,"Electric household essentials",Item_21_EHE,35,5,175,"Digital Wallet",Online,2022-04-12,FALSE
+3187729,18,"Electric household essentials",Item_25_EHE,41,9,369,"Digital Wallet",In-store,2024-06-25,FALSE
+9667841,11,Patisserie,Item_22_PAT,37,7,255.5,"Digital Wallet",Online,2024-06-05,TRUE
+3433195,24,"Electric household essentials",NULL,22,7,150.5,Cash,Online,2023-03-30,TRUE
+4731761,17,Beverages,Item_6_BEV,13,3,37.5,"Credit Card",In-store,2024-08-19,TRUE
+6339738,25,Butchers,Item_12_BUT,22,7,150.5,"Credit Card",In-store,2022-04-01,TRUE
+8912717,5,"Milk Products",Item_2_MILK,7,10,65,"Credit Card",In-store,2022-07-28,TRUE
+9840878,7,"Computers and electric accessories",Item_9_CEA,17,10,170,"Digital Wallet",In-store,2023-10-17,FALSE
+8186195,20,Beverages,Item_8_BEV,16,5,77.5,"Digital Wallet",Online,2023-02-19,TRUE
+1536301,14,Food,Item_10_FOOD,19,7,129.5,Cash,In-store,2023-06-12,TRUE
+6001621,15,Furniture,Item_8_FUR,16,1,15.5,"Credit Card",In-store,2022-10-09,TRUE
+2077907,16,Furniture,Item_14_FUR,25,1,24.5,"Digital Wallet",In-store,2022-06-20,TRUE
+6429566,1,"Milk Products",Item_24_MILK,40,3,118.5,Cash,Online,2023-03-08,TRUE
+4476611,13,Food,Item_14_FOOD,25,6,147,"Credit Card",Online,2023-03-01,TRUE
+4547031,18,Patisserie,Item_6_PAT,13,3,37.5,Cash,In-store,2024-03-27,TRUE
+6923046,11,Butchers,Item_12_BUT,22,1,21.5,"Credit Card",Online,2023-08-22,TRUE
+5461118,3,Butchers,Item_8_BUT,16,3,46.5,"Credit Card",In-store,2024-08-20,TRUE
+8574406,16,Furniture,Item_8_FUR,16,5,77.5,"Credit Card",In-store,2024-05-23,TRUE
+4459526,11,"Milk Products",Item_3_MILK,8,9,72,Cash,In-store,2022-01-03,FALSE
+9538956,10,"Computers and electric accessories",Item_5_CEA,11,5,55,Cash,In-store,2022-02-22,FALSE
+7160998,13,"Computers and electric accessories",Item_1_CEA,5,7,35,"Credit Card",Online,2022-02-08,FALSE
+6906173,2,Patisserie,Item_7_PAT,14,7,98,Cash,Online,2024-11-04,FALSE
+3317964,25,"Milk Products",Item_8_MILK,16,2,31,"Digital Wallet",In-store,2024-07-01,TRUE
+4654673,20,Butchers,Item_23_BUT,38,1,38,Cash,In-store,2024-09-14,FALSE
+9684703,15,"Computers and electric accessories",Item_6_CEA,13,1,12.5,"Digital Wallet",In-store,2024-02-05,TRUE
+7571093,17,"Milk Products",NULL,11,9,99,"Digital Wallet",In-store,2022-11-18,FALSE
+1130823,13,"Computers and electric accessories",Item_9_CEA,17,10,170,"Credit Card",In-store,2024-11-02,FALSE
+2655759,23,Furniture,Item_25_FUR,41,3,123,Cash,In-store,2024-09-18,FALSE
+8878269,5,"Computers and electric accessories",Item_19_CEA,32,4,128,Cash,In-store,2024-12-08,FALSE
+5481124,3,Furniture,Item_15_FUR,26,9,234,Cash,In-store,2022-01-14,FALSE
+3191741,1,Patisserie,Item_15_PAT,26,9,234,"Digital Wallet",In-store,2024-11-17,FALSE
+8404227,3,Beverages,Item_2_BEV,7,9,58.5,"Digital Wallet",Online,2023-12-29,TRUE
+2374689,19,Beverages,Item_2_BEV,7,1,6.5,Cash,In-store,2024-05-21,TRUE
+9469962,8,Beverages,NULL,8,6,48,Cash,Online,2024-02-26,FALSE
+5072173,23,"Computers and electric accessories",Item_10_CEA,19,7,129.5,"Digital Wallet",Online,2024-09-21,TRUE
+4944574,19,Patisserie,Item_24_PAT,40,6,237,"Digital Wallet",Online,2024-04-11,TRUE
+5293933,20,"Computers and electric accessories",Item_5_CEA,11,5,55,Cash,In-store,2022-12-06,FALSE
+7801513,1,"Electric household essentials",Item_5_EHE,11,6,66,"Digital Wallet",In-store,2022-09-21,FALSE
+8685820,5,Beverages,Item_1_BEV,5,10,50,"Digital Wallet",Online,2023-03-23,FALSE
+1729525,8,Beverages,Item_23_BEV,38,7,266,"Digital Wallet",In-store,2022-11-10,FALSE
+2593560,7,Butchers,Item_13_BUT,23,6,138,Cash,In-store,2023-07-07,FALSE
+6961502,13,Butchers,Item_17_BUT,29,1,29,"Digital Wallet",In-store,2022-11-09,FALSE
+8817119,22,Butchers,Item_20_BUT,34,5,167.5,"Credit Card",Online,2024-04-27,TRUE
+4160315,5,"Milk Products",Item_19_MILK,32,9,288,"Digital Wallet",Online,2022-08-20,FALSE
+5438923,3,"Milk Products",Item_24_MILK,40,4,158,"Credit Card",Online,2023-07-21,TRUE
+5911306,21,"Milk Products",NULL,34,8,268,"Digital Wallet",Online,2022-10-10,TRUE
+8714034,9,"Electric household essentials",Item_6_EHE,13,4,50,"Digital Wallet",In-store,2023-01-07,TRUE
+5960646,21,Beverages,Item_3_BEV,8,8,64,"Digital Wallet",Online,2024-03-18,FALSE
+1839621,1,Butchers,Item_8_BUT,16,1,15.5,"Digital Wallet",Online,2024-04-07,TRUE
+5944361,1,"Milk Products",Item_19_MILK,32,4,128,"Credit Card",In-store,2022-10-10,FALSE
+7159417,11,Food,Item_13_FOOD,23,5,115,Cash,In-store,2024-03-14,FALSE
+3759367,18,Beverages,Item_19_BEV,32,1,32,"Digital Wallet",In-store,2023-05-07,FALSE
+1676564,12,Furniture,Item_2_FUR,7,6,39,"Digital Wallet",Online,2024-06-18,TRUE
+7493896,11,"Electric household essentials",Item_11_EHE,20,4,80,Cash,In-store,2024-12-07,FALSE
+9279646,8,"Milk Products",Item_9_MILK,17,7,119,"Credit Card",Online,2022-10-11,FALSE
+2080115,18,Butchers,Item_24_BUT,40,7,276.5,Cash,Online,2024-01-05,TRUE
+2634868,13,Patisserie,Item_11_PAT,20,4,80,Cash,In-store,2024-06-26,FALSE
+9937190,23,Food,Item_13_FOOD,23,3,69,"Digital Wallet",In-store,2023-07-14,FALSE
+9222292,15,Furniture,Item_24_FUR,40,9,355.5,"Digital Wallet",In-store,2024-12-25,TRUE
+3841425,24,"Milk Products",Item_8_MILK,16,6,93,"Credit Card",In-store,2024-10-01,TRUE
+3427896,15,Patisserie,Item_12_PAT,22,3,64.5,Cash,In-store,2024-12-26,TRUE
+7315614,22,Furniture,Item_15_FUR,26,10,260,"Digital Wallet",In-store,2024-02-10,FALSE
+5441868,5,Furniture,Item_5_FUR,11,5,55,"Digital Wallet",Online,2022-03-07,FALSE
+5275517,10,Food,Item_17_FOOD,29,8,232,Cash,Online,2024-11-29,FALSE
+6260961,16,"Electric household essentials",Item_25_EHE,41,1,41,Cash,In-store,2024-10-25,FALSE
+2139409,23,Food,Item_13_FOOD,23,9,207,"Digital Wallet",Online,2022-05-21,FALSE
+5343433,20,"Computers and electric accessories",Item_19_CEA,32,7,224,"Credit Card",Online,2022-12-11,FALSE
+7425133,3,Patisserie,Item_20_PAT,34,10,335,Cash,In-store,2024-05-21,TRUE
+8793391,16,Beverages,Item_2_BEV,7,8,52,"Credit Card",Online,2024-04-14,TRUE
+5940844,23,Beverages,Item_19_BEV,32,2,64,"Credit Card",In-store,2023-09-12,FALSE
+3357122,5,Butchers,Item_22_BUT,37,2,73,"Credit Card",Online,2024-02-19,TRUE
+8846811,21,Butchers,Item_21_BUT,35,1,35,"Digital Wallet",Online,2022-09-06,FALSE
+6576457,19,Patisserie,Item_9_PAT,17,10,170,"Credit Card",In-store,2022-03-17,FALSE
+4581475,17,"Computers and electric accessories",Item_11_CEA,20,6,120,"Credit Card",In-store,2023-06-16,FALSE
+6582130,3,"Electric household essentials",Item_13_EHE,23,9,207,"Digital Wallet",Online,2024-12-25,FALSE
+2910621,2,Beverages,Item_10_BEV,19,10,185,"Digital Wallet",In-store,2023-03-05,TRUE
+9627402,4,Butchers,Item_3_BUT,8,10,80,Cash,Online,2022-02-23,FALSE
+6676210,2,"Computers and electric accessories",Item_17_CEA,29,8,232,"Digital Wallet",Online,2023-11-27,FALSE
+5351535,23,Patisserie,Item_25_PAT,41,8,328,Cash,In-store,2024-10-15,FALSE
+4435938,5,"Electric household essentials",Item_13_EHE,23,4,92,"Credit Card",In-store,2023-08-06,FALSE
+4181012,21,Patisserie,Item_8_PAT,16,6,93,Cash,Online,2024-06-24,TRUE
+1475212,11,Beverages,Item_11_BEV,20,6,120,Cash,Online,2023-10-14,FALSE
+9755626,25,Patisserie,Item_11_PAT,20,3,60,"Digital Wallet",Online,2023-01-31,FALSE
+3842430,19,Food,Item_18_FOOD,31,8,244,"Credit Card",In-store,2023-03-04,TRUE
+1102128,22,Furniture,Item_5_FUR,11,3,33,"Credit Card",In-store,2024-05-01,FALSE
+5823559,14,Furniture,Item_24_FUR,40,1,39.5,"Digital Wallet",In-store,2024-01-17,TRUE
+6830801,14,"Milk Products",Item_6_MILK,13,3,37.5,"Credit Card",In-store,2022-05-20,TRUE
+7480229,6,Furniture,Item_24_FUR,40,6,237,"Credit Card",In-store,2022-01-22,TRUE
+9970141,10,"Electric household essentials",Item_1_EHE,5,3,15,Cash,In-store,2023-07-03,FALSE
+1841098,11,Food,Item_20_FOOD,34,2,67,Cash,In-store,2023-10-22,TRUE
+4374445,12,Food,Item_25_FOOD,41,10,410,"Digital Wallet",Online,2024-10-17,FALSE
+9041908,22,"Electric household essentials",Item_25_EHE,41,8,328,Cash,Online,2022-06-22,FALSE
+6035994,15,Beverages,Item_6_BEV,13,8,100,"Credit Card",In-store,2024-10-30,TRUE
+3456177,1,Butchers,Item_13_BUT,23,3,69,"Credit Card",Online,2023-06-23,FALSE
+9583800,17,"Electric household essentials",Item_12_EHE,22,2,43,Cash,Online,2023-09-18,TRUE
+8870473,17,"Milk Products",Item_13_MILK,23,1,23,"Credit Card",In-store,2023-05-29,FALSE
+9933625,25,Patisserie,Item_20_PAT,34,8,268,Cash,Online,2022-11-02,TRUE
+3668440,21,Butchers,Item_3_BUT,8,2,16,Cash,In-store,2022-01-18,FALSE
+4255841,21,"Computers and electric accessories",Item_22_CEA,37,9,328.5,"Credit Card",Online,2023-08-12,TRUE
+1795154,23,"Computers and electric accessories",Item_10_CEA,19,7,129.5,"Digital Wallet",In-store,2023-06-14,TRUE
+3717384,1,Food,Item_14_FOOD,25,6,147,Cash,In-store,2023-05-11,TRUE
+9616213,23,Furniture,Item_24_FUR,40,3,118.5,"Credit Card",Online,2023-03-11,TRUE
+7043807,24,Furniture,NULL,26,7,182,"Digital Wallet",In-store,2022-02-07,FALSE
+6728454,8,"Milk Products",Item_24_MILK,40,3,118.5,"Credit Card",Online,2023-10-17,TRUE
+4322217,21,"Computers and electric accessories",Item_18_CEA,31,2,61,"Digital Wallet",In-store,2024-11-23,TRUE
+2151215,2,Butchers,Item_5_BUT,11,4,44,Cash,In-store,2023-11-24,FALSE
+9987791,8,"Milk Products",Item_22_MILK,37,2,73,"Digital Wallet",In-store,2022-10-07,TRUE
+2540564,24,"Computers and electric accessories",Item_5_CEA,11,1,11,Cash,Online,2023-08-18,FALSE
+9659532,21,Furniture,Item_4_FUR,10,8,76,Cash,In-store,2023-01-08,TRUE
+1783309,8,Patisserie,Item_15_PAT,26,9,234,"Credit Card",Online,2023-01-17,FALSE
+6596970,25,Food,Item_12_FOOD,22,6,129,"Credit Card",In-store,2023-10-29,TRUE
+1742336,8,Patisserie,Item_13_PAT,23,4,92,"Credit Card",Online,2022-03-08,FALSE
+7738273,6,Beverages,Item_3_BEV,8,9,72,Cash,Online,2024-03-23,FALSE
+2232768,2,Food,Item_20_FOOD,34,9,301.5,"Digital Wallet",In-store,2024-09-29,TRUE
+4863238,13,Food,Item_11_FOOD,20,4,80,"Credit Card",In-store,2022-11-16,FALSE
+9409545,5,"Electric household essentials",Item_22_EHE,37,7,255.5,"Credit Card",Online,2022-02-24,TRUE
+5426614,19,"Milk Products",Item_15_MILK,26,7,182,"Digital Wallet",Online,2022-08-06,FALSE
+1712455,25,Butchers,Item_5_BUT,11,9,99,"Credit Card",In-store,2024-03-11,FALSE
+7017598,4,Patisserie,Item_4_PAT,10,6,57,"Credit Card",Online,2023-06-07,TRUE
+7222601,18,"Electric household essentials",Item_12_EHE,22,2,43,Cash,Online,2022-09-10,TRUE
+7864933,24,Beverages,Item_17_BEV,29,1,29,Cash,In-store,2022-11-29,FALSE
+8228155,17,Butchers,Item_13_BUT,23,5,115,"Credit Card",Online,2022-08-19,FALSE
+9564689,18,Patisserie,Item_14_PAT,25,4,98,Cash,Online,2022-04-06,TRUE
+8504691,8,"Milk Products",Item_1_MILK,5,1,5,"Credit Card",Online,2023-12-21,FALSE
+7177109,5,Furniture,Item_14_FUR,25,4,98,Cash,In-store,2023-06-12,TRUE
+9440172,20,Beverages,Item_25_BEV,41,9,369,"Credit Card",In-store,2023-10-25,FALSE
+7436006,16,Patisserie,Item_8_PAT,16,7,108.5,Cash,In-store,2023-07-25,TRUE
+3673808,23,Patisserie,Item_19_PAT,32,10,320,"Digital Wallet",In-store,2023-11-18,FALSE
+1386646,24,Patisserie,Item_11_PAT,20,6,120,"Digital Wallet",Online,2022-12-07,FALSE
+3840387,19,Beverages,Item_7_BEV,14,5,70,Cash,In-store,2024-12-29,FALSE
+5434897,25,Butchers,Item_23_BUT,38,1,38,Cash,In-store,2023-03-21,FALSE
+2218629,10,"Computers and electric accessories",NULL,32,3,96,"Credit Card",Online,2022-03-21,FALSE
+9352178,24,Patisserie,Item_2_PAT,7,8,52,"Digital Wallet",In-store,2023-03-24,TRUE
+9978418,10,Butchers,Item_14_BUT,25,5,122.5,"Digital Wallet",Online,2024-02-24,TRUE
+6660687,2,Furniture,Item_17_FUR,29,9,261,"Digital Wallet",Online,2024-12-27,FALSE
+8348586,3,"Electric household essentials",NULL,28,8,220,"Credit Card",Online,2022-08-12,TRUE
+7647224,13,"Milk Products",Item_1_MILK,5,7,35,"Credit Card",In-store,2022-03-19,FALSE
+2676761,15,"Electric household essentials",Item_17_EHE,29,9,261,"Digital Wallet",In-store,2024-04-03,FALSE
+1409260,8,"Electric household essentials",Item_8_EHE,16,1,15.5,"Credit Card",In-store,2022-09-21,TRUE
+9671345,21,Furniture,Item_20_FUR,34,2,67,Cash,Online,2022-09-13,TRUE
+6893703,13,Patisserie,Item_13_PAT,23,1,23,"Credit Card",In-store,2023-09-03,FALSE
+5744111,13,Beverages,Item_3_BEV,8,3,24,"Credit Card",Online,2024-08-21,FALSE
+5224257,8,Butchers,Item_6_BUT,13,9,112.5,Cash,Online,2022-08-13,TRUE
+5319794,1,Beverages,Item_16_BEV,28,10,275,"Credit Card",Online,2023-05-01,TRUE
+7326092,1,Butchers,Item_23_BUT,38,5,190,"Credit Card",Online,2023-09-19,FALSE
+3342497,18,Patisserie,Item_9_PAT,17,4,68,"Credit Card",In-store,2023-07-03,FALSE
+7235181,22,"Milk Products",Item_3_MILK,8,8,64,"Digital Wallet",Online,2023-12-13,FALSE
+4657560,6,Patisserie,Item_22_PAT,37,5,182.5,"Digital Wallet",In-store,2022-10-18,TRUE
+4570770,12,"Electric household essentials",Item_11_EHE,20,3,60,"Credit Card",In-store,2023-04-29,FALSE
+6810161,17,Food,Item_11_FOOD,20,3,60,Cash,Online,2024-05-05,FALSE
+1544024,20,Patisserie,Item_17_PAT,29,8,232,Cash,Online,2024-11-16,FALSE
+3107156,2,"Computers and electric accessories",Item_24_CEA,40,8,316,Cash,Online,2024-12-23,TRUE
+2540525,3,"Computers and electric accessories",Item_22_CEA,37,2,73,Cash,In-store,2023-04-29,TRUE
+7595380,6,Furniture,Item_9_FUR,17,4,68,Cash,In-store,2022-11-13,FALSE
+9778912,14,"Electric household essentials",Item_21_EHE,35,8,280,"Credit Card",Online,2024-08-27,FALSE
+2461753,12,"Computers and electric accessories",Item_19_CEA,32,10,320,Cash,Online,2022-10-18,FALSE
+9228328,5,Furniture,Item_20_FUR,34,1,33.5,"Digital Wallet",In-store,2022-09-29,TRUE
+8148435,24,"Electric household essentials",Item_23_EHE,38,6,228,"Credit Card",Online,2024-01-20,FALSE
+9014066,1,Butchers,Item_12_BUT,22,3,64.5,"Digital Wallet",Online,2022-11-20,TRUE
+3864156,10,Butchers,Item_12_BUT,22,8,172,"Credit Card",In-store,2023-05-25,TRUE
+1325795,10,"Computers and electric accessories",Item_14_CEA,25,6,147,"Digital Wallet",In-store,2022-04-29,TRUE
+9131959,1,"Milk Products",Item_2_MILK,7,1,6.5,"Credit Card",Online,2022-01-11,TRUE
+2755690,8,"Computers and electric accessories",Item_12_CEA,22,9,193.5,Cash,Online,2024-11-04,TRUE
+5675339,20,"Electric household essentials",Item_20_EHE,34,4,134,"Credit Card",Online,2024-01-12,TRUE
+2687566,19,Furniture,NULL,28,1,27.5,"Credit Card",Online,2022-03-21,TRUE
+6070296,19,"Electric household essentials",Item_5_EHE,11,3,33,Cash,In-store,2024-01-31,FALSE
+7927802,20,Butchers,Item_22_BUT,37,8,292,"Digital Wallet",Online,2023-06-30,TRUE
+1607995,23,"Electric household essentials",Item_19_EHE,32,6,192,"Credit Card",In-store,2023-12-24,FALSE
+1694461,17,Butchers,Item_12_BUT,22,10,215,Cash,Online,2022-07-13,TRUE
+4728272,21,"Computers and electric accessories",Item_22_CEA,37,9,328.5,Cash,Online,2023-02-27,TRUE
+1213835,2,Beverages,Item_22_BEV,37,4,146,"Digital Wallet",In-store,2022-07-06,TRUE
+7377480,23,Food,Item_10_FOOD,19,6,111,Cash,Online,2024-03-13,TRUE
+3331644,20,"Milk Products",Item_16_MILK,28,8,220,"Digital Wallet",Online,2024-04-27,TRUE
+2605227,12,Butchers,Item_7_BUT,14,2,28,Cash,In-store,2024-02-03,FALSE
+5387201,14,Furniture,Item_2_FUR,7,6,39,"Digital Wallet",Online,2024-11-06,TRUE
+2782829,2,"Electric household essentials",Item_12_EHE,22,7,150.5,Cash,In-store,2024-03-14,TRUE
+3253186,4,"Milk Products",Item_23_MILK,38,9,342,Cash,Online,2022-09-14,FALSE
+5905211,18,"Computers and electric accessories",Item_5_CEA,11,3,33,"Digital Wallet",Online,2024-03-21,FALSE
+2937307,15,Patisserie,Item_14_PAT,25,6,147,Cash,In-store,2025-01-06,TRUE
+7739969,17,"Computers and electric accessories",Item_12_CEA,22,3,64.5,Cash,Online,2023-12-14,TRUE
+2610751,5,Butchers,Item_25_BUT,41,5,205,Cash,Online,2022-05-30,FALSE
+2712285,22,Furniture,Item_2_FUR,7,5,32.5,Cash,In-store,2022-06-25,TRUE
+5372618,8,"Electric household essentials",Item_15_EHE,26,7,182,"Digital Wallet",In-store,2022-05-18,FALSE
+9725690,21,"Electric household essentials",Item_8_EHE,16,6,93,"Credit Card",Online,2022-08-30,TRUE
+1619388,1,"Computers and electric accessories",Item_15_CEA,26,1,26,"Digital Wallet",Online,2024-05-23,FALSE
+8846502,25,Patisserie,Item_9_PAT,17,6,102,Cash,In-store,2024-08-07,FALSE
+2079721,12,Butchers,Item_21_BUT,35,1,35,"Digital Wallet",In-store,2023-12-14,FALSE
+5361643,19,Food,NULL,23,2,46,"Digital Wallet",Online,2023-12-19,FALSE
+5809744,18,Food,Item_9_FOOD,17,4,68,Cash,In-store,2023-01-29,FALSE
+6567750,5,Furniture,Item_14_FUR,25,4,98,"Credit Card",In-store,2022-10-26,TRUE
+6837444,19,"Computers and electric accessories",Item_16_CEA,28,9,247.5,Cash,Online,2023-01-13,TRUE
+9307798,5,Patisserie,Item_4_PAT,10,2,19,"Digital Wallet",In-store,2023-07-05,TRUE
+3791514,16,Patisserie,Item_4_PAT,10,2,19,"Digital Wallet",Online,2023-01-08,TRUE
+8377166,6,Butchers,Item_20_BUT,34,2,67,"Credit Card",In-store,2024-03-27,TRUE
+9027643,1,Patisserie,Item_5_PAT,11,10,110,Cash,In-store,2024-10-25,FALSE
+5547887,1,Patisserie,Item_17_PAT,29,10,290,"Digital Wallet",Online,2024-09-10,FALSE
+2009395,13,Food,Item_11_FOOD,20,6,120,"Digital Wallet",Online,2024-08-12,FALSE
+1354667,8,Beverages,Item_8_BEV,16,5,77.5,Cash,Online,2022-04-04,TRUE
+1597974,8,"Milk Products",Item_18_MILK,31,2,61,Cash,Online,2023-10-20,TRUE
+3795673,14,Butchers,Item_5_BUT,11,7,77,Cash,In-store,2024-02-02,FALSE
+7725571,9,Furniture,Item_25_FUR,41,3,123,"Credit Card",Online,2024-06-24,FALSE
+5827116,3,"Computers and electric accessories",Item_11_CEA,20,7,140,Cash,In-store,2023-11-05,FALSE
+5314835,22,Patisserie,Item_1_PAT,5,7,35,"Digital Wallet",Online,2024-07-05,FALSE
+4897743,1,Food,NULL,22,9,193.5,"Credit Card",In-store,2024-03-18,TRUE
+1565398,25,Food,NULL,18,8,148,"Credit Card",In-store,2022-06-15,TRUE
+5579136,24,Beverages,Item_14_BEV,25,8,196,"Digital Wallet",In-store,2023-05-12,TRUE
+9837294,23,Beverages,Item_4_BEV,10,4,38,"Digital Wallet",In-store,2024-06-15,TRUE
+8172094,21,Patisserie,Item_6_PAT,13,8,100,"Digital Wallet",In-store,2022-03-05,TRUE
+4882798,23,Furniture,Item_6_FUR,13,10,125,"Credit Card",In-store,2022-04-22,TRUE
+4283900,4,Beverages,Item_24_BEV,40,6,237,"Credit Card",Online,2022-06-23,TRUE
+1224321,5,"Computers and electric accessories",Item_6_CEA,13,1,12.5,"Digital Wallet",Online,2022-08-22,TRUE
+5240854,16,"Computers and electric accessories",Item_21_CEA,35,6,210,Cash,Online,2024-10-09,FALSE
+4879732,21,"Milk Products",Item_18_MILK,31,3,91.5,Cash,Online,2022-02-27,TRUE
+1642953,18,"Electric household essentials",Item_16_EHE,28,5,137.5,"Digital Wallet",In-store,2022-10-30,TRUE
+9917843,11,"Milk Products",NULL,10,10,95,"Digital Wallet",Online,2024-03-04,TRUE
+4602333,19,"Milk Products",Item_14_MILK,25,10,245,"Credit Card",Online,2024-12-30,TRUE
+8101203,18,Food,Item_5_FOOD,11,10,110,"Credit Card",In-store,2022-04-14,FALSE
+4766175,24,Furniture,Item_11_FUR,20,3,60,"Digital Wallet",Online,2024-03-25,FALSE
+2331955,10,Patisserie,Item_20_PAT,34,4,134,Cash,Online,2023-04-01,TRUE
+1373649,9,"Electric household essentials",Item_22_EHE,37,6,219,Cash,In-store,2023-05-07,TRUE
+8660082,8,Beverages,Item_20_BEV,34,1,33.5,"Credit Card",In-store,2024-05-18,TRUE
+4244094,4,Food,Item_6_FOOD,13,2,25,"Digital Wallet",In-store,2022-09-06,TRUE
+3949704,22,"Electric household essentials",Item_21_EHE,35,9,315,Cash,Online,2022-06-12,FALSE
+1304201,9,Furniture,Item_5_FUR,11,4,44,"Credit Card",In-store,2024-03-14,FALSE
+1481263,13,Patisserie,Item_9_PAT,17,8,136,"Digital Wallet",In-store,2022-12-04,FALSE
+1830813,15,"Milk Products",Item_22_MILK,37,8,292,"Credit Card",Online,2023-11-05,TRUE
+3256316,22,Food,Item_17_FOOD,29,1,29,Cash,Online,2024-07-10,FALSE
+4412300,5,"Electric household essentials",Item_23_EHE,38,10,380,"Digital Wallet",In-store,2022-08-18,FALSE
+8350639,21,Furniture,Item_2_FUR,7,9,58.5,"Digital Wallet",Online,2023-07-12,TRUE
+6417585,5,"Electric household essentials",Item_19_EHE,32,2,64,Cash,In-store,2023-02-08,FALSE
+8355393,10,"Milk Products",Item_17_MILK,29,5,145,Cash,In-store,2022-01-24,FALSE
+5759876,3,Food,Item_25_FOOD,41,3,123,Cash,Online,2023-12-27,FALSE
+5786761,3,"Computers and electric accessories",Item_6_CEA,13,5,62.5,"Credit Card",Online,2023-10-25,TRUE
+4126221,3,Furniture,Item_2_FUR,7,1,6.5,Cash,Online,2023-07-03,TRUE
+3055303,23,Food,Item_22_FOOD,37,1,36.5,Cash,Online,2022-06-30,TRUE
+3042204,16,Patisserie,Item_12_PAT,22,5,107.5,"Digital Wallet",Online,2023-05-14,TRUE
+7810642,12,Beverages,Item_6_BEV,13,8,100,"Credit Card",Online,2024-03-04,TRUE
+1386229,8,"Computers and electric accessories",Item_11_CEA,20,4,80,"Credit Card",Online,2023-04-02,FALSE
+5372777,8,"Milk Products",Item_1_MILK,5,6,30,"Credit Card",Online,2022-05-30,FALSE
+2082706,17,Furniture,Item_12_FUR,22,8,172,Cash,Online,2024-10-10,TRUE
+1808071,25,Food,Item_13_FOOD,23,2,46,"Digital Wallet",In-store,2022-10-14,FALSE
+2118429,21,Butchers,Item_5_BUT,11,5,55,"Digital Wallet",In-store,2022-10-17,FALSE
+4298975,22,"Milk Products",NULL,30,2,61,"Digital Wallet",Online,2023-12-18,TRUE
+4597218,23,Patisserie,Item_2_PAT,7,10,65,"Credit Card",Online,2024-06-19,TRUE
+4793201,12,Beverages,Item_16_BEV,28,2,55,"Credit Card",In-store,2023-09-01,TRUE
+1910565,18,Furniture,Item_9_FUR,17,9,153,"Digital Wallet",In-store,2024-03-26,FALSE
+5645530,14,Beverages,Item_14_BEV,25,10,245,"Digital Wallet",Online,2024-06-06,TRUE
+7221565,24,Furniture,Item_17_FUR,29,1,29,Cash,In-store,2022-02-13,FALSE
+2175503,20,"Electric household essentials",Item_21_EHE,35,6,210,Cash,In-store,2024-01-02,FALSE
+3919101,18,"Milk Products",Item_11_MILK,20,4,80,"Digital Wallet",Online,2022-05-22,FALSE
+7993933,13,"Milk Products",Item_13_MILK,23,6,138,"Credit Card",Online,2022-09-12,FALSE
+1987133,9,Furniture,Item_11_FUR,20,3,60,"Credit Card",Online,2022-06-07,FALSE
+9150129,6,"Electric household essentials",Item_4_EHE,10,10,95,Cash,In-store,2024-06-27,TRUE
+1011892,8,Furniture,Item_24_FUR,40,2,79,"Credit Card",Online,2023-08-27,TRUE
+5476321,2,"Computers and electric accessories",Item_15_CEA,26,3,78,"Credit Card",Online,2023-04-24,FALSE
+3525189,4,Furniture,Item_4_FUR,10,4,38,Cash,Online,2024-01-25,TRUE
+5861199,19,Beverages,Item_18_BEV,31,10,305,Cash,Online,2022-12-30,TRUE
+6454565,24,Furniture,Item_6_FUR,13,3,37.5,"Credit Card",Online,2022-05-07,TRUE
+4827758,6,"Milk Products",Item_9_MILK,17,3,51,Cash,In-store,2023-11-16,FALSE
+6215665,22,Beverages,Item_23_BEV,38,1,38,"Digital Wallet",Online,2023-06-13,FALSE
+7710775,5,Furniture,Item_23_FUR,38,5,190,"Digital Wallet",In-store,2023-02-22,FALSE
+4701071,13,Furniture,Item_1_FUR,5,6,30,"Digital Wallet",Online,2023-04-11,FALSE
+1593038,10,Patisserie,Item_11_PAT,20,8,160,"Digital Wallet",Online,2023-02-27,FALSE
+7002371,25,Butchers,Item_1_BUT,5,3,15,Cash,In-store,2022-01-15,FALSE
+5423342,19,"Computers and electric accessories",Item_8_CEA,16,3,46.5,"Digital Wallet",In-store,2023-10-21,TRUE
+2010040,10,Beverages,Item_19_BEV,32,8,256,Cash,Online,2024-02-01,FALSE
+3087080,23,"Computers and electric accessories",Item_19_CEA,32,7,224,"Digital Wallet",In-store,2022-04-23,FALSE
+1285469,20,"Electric household essentials",NULL,16,7,108.5,"Digital Wallet",Online,2022-06-17,TRUE
+2221021,11,Beverages,Item_22_BEV,37,5,182.5,"Digital Wallet",In-store,2022-01-09,TRUE
+7308742,14,Furniture,Item_8_FUR,16,2,31,"Credit Card",In-store,2023-07-19,TRUE
+4979615,19,Food,Item_12_FOOD,22,10,215,Cash,In-store,2024-05-10,TRUE
+2947270,12,Furniture,Item_5_FUR,11,3,33,"Digital Wallet",In-store,2022-12-12,FALSE
+5115102,14,"Computers and electric accessories",Item_23_CEA,38,4,152,"Credit Card",Online,2025-01-12,FALSE
+7169040,21,Furniture,Item_1_FUR,5,10,50,"Digital Wallet",In-store,2022-04-07,FALSE
+4408493,20,Butchers,Item_13_BUT,23,10,230,"Digital Wallet",In-store,2023-01-10,FALSE
+9951872,16,"Electric household essentials",Item_24_EHE,40,7,276.5,Cash,Online,2024-11-10,TRUE
+2263002,9,Patisserie,Item_16_PAT,28,9,247.5,"Digital Wallet",Online,2022-06-10,TRUE
+5671217,17,"Computers and electric accessories",Item_12_CEA,22,9,193.5,"Digital Wallet",Online,2023-01-06,TRUE
+6586324,15,Butchers,NULL,30,6,183,"Digital Wallet",In-store,2024-05-08,TRUE
+9763067,18,Furniture,Item_16_FUR,28,10,275,Cash,In-store,2024-08-04,TRUE
+3490623,9,Patisserie,Item_8_PAT,16,2,31,"Credit Card",Online,2022-03-02,TRUE
+6440999,4,"Milk Products",Item_8_MILK,16,2,31,"Digital Wallet",Online,2022-06-28,TRUE
+4189415,3,Food,Item_2_FOOD,7,4,26,"Credit Card",In-store,2024-03-08,TRUE
+8177929,12,Furniture,NULL,38,2,76,"Credit Card",Online,2022-06-12,FALSE
+8955882,9,"Milk Products",Item_13_MILK,23,10,230,"Digital Wallet",Online,2023-12-03,FALSE
+1826446,21,Butchers,Item_18_BUT,31,9,274.5,"Credit Card",In-store,2022-06-13,TRUE
+5430099,8,Patisserie,Item_8_PAT,16,6,93,"Credit Card",Online,2023-08-10,TRUE
+6053212,8,"Electric household essentials",Item_2_EHE,7,10,65,"Credit Card",In-store,2023-11-02,TRUE
+2275327,8,Patisserie,Item_13_PAT,23,3,69,Cash,In-store,2022-08-13,FALSE
+3543865,9,"Computers and electric accessories",Item_12_CEA,22,1,21.5,Cash,In-store,2023-11-20,TRUE
+3876653,23,"Computers and electric accessories",Item_7_CEA,14,7,98,Cash,In-store,2024-07-06,FALSE
+8090678,8,"Electric household essentials",Item_8_EHE,16,5,77.5,"Digital Wallet",Online,2024-05-01,TRUE
+1865764,8,"Computers and electric accessories",Item_21_CEA,35,8,280,"Credit Card",Online,2024-12-10,FALSE
+7555309,12,Beverages,NULL,22,5,107.5,"Credit Card",Online,2022-07-15,TRUE
+7232230,17,"Computers and electric accessories",Item_5_CEA,11,5,55,"Credit Card",Online,2023-06-14,FALSE
+4354993,15,"Milk Products",Item_21_MILK,35,7,245,Cash,In-store,2023-10-09,FALSE
+1099045,21,Patisserie,Item_10_PAT,19,6,111,"Digital Wallet",Online,2022-09-12,TRUE
+4797019,19,"Milk Products",Item_13_MILK,23,6,138,Cash,Online,2023-06-30,FALSE
+6375385,24,Furniture,Item_11_FUR,20,8,160,"Digital Wallet",Online,2023-06-07,FALSE
+1243810,15,Furniture,Item_11_FUR,20,8,160,Cash,Online,2023-12-28,FALSE
+9398224,18,"Electric household essentials",Item_8_EHE,16,5,77.5,"Digital Wallet",In-store,2024-02-16,TRUE
+9044784,21,"Electric household essentials",Item_25_EHE,41,5,205,"Digital Wallet",Online,2024-03-22,FALSE
+5720404,22,Beverages,Item_22_BEV,37,7,255.5,Cash,In-store,2022-03-22,TRUE
+2533200,5,Patisserie,Item_1_PAT,5,8,40,"Credit Card",Online,2022-10-28,FALSE
+4464985,14,Butchers,Item_13_BUT,23,8,184,"Digital Wallet",Online,2022-12-02,FALSE
+6117973,10,"Electric household essentials",Item_15_EHE,26,7,182,Cash,Online,2022-05-15,FALSE
+9340286,19,"Milk Products",Item_6_MILK,13,2,25,Cash,In-store,2024-08-13,TRUE
+3242349,3,Furniture,Item_14_FUR,25,7,171.5,Cash,Online,2022-12-26,TRUE
+9299802,3,Patisserie,Item_17_PAT,29,1,29,Cash,Online,2023-03-25,FALSE
+5371741,12,"Electric household essentials",Item_17_EHE,29,4,116,"Digital Wallet",In-store,2022-08-21,FALSE
+7101302,16,Beverages,NULL,34,1,33.5,Cash,In-store,2024-10-24,TRUE
+7903686,10,Beverages,Item_17_BEV,29,1,29,"Digital Wallet",Online,2022-03-13,FALSE
+3761426,11,Furniture,Item_11_FUR,20,1,20,"Credit Card",In-store,2024-12-16,FALSE
+5381188,17,Furniture,Item_1_FUR,5,5,25,"Credit Card",Online,2022-12-15,FALSE
+9844205,5,Furniture,Item_17_FUR,29,2,58,Cash,Online,2023-01-12,FALSE
+9443022,12,"Milk Products",Item_15_MILK,26,2,52,Cash,In-store,2024-03-27,FALSE
+2545845,9,"Computers and electric accessories",Item_18_CEA,31,9,274.5,Cash,In-store,2024-08-28,TRUE
+9793935,18,"Milk Products",Item_18_MILK,31,7,213.5,"Credit Card",In-store,2023-10-04,TRUE
+1919020,20,Butchers,Item_22_BUT,37,10,365,"Digital Wallet",In-store,2022-03-18,TRUE
+9972181,22,"Electric household essentials",Item_21_EHE,35,5,175,Cash,In-store,2024-12-28,FALSE
+4432365,1,Butchers,Item_12_BUT,22,5,107.5,Cash,In-store,2022-03-17,TRUE
+7305258,14,Patisserie,Item_23_PAT,38,3,114,"Digital Wallet",Online,2022-04-25,FALSE
+8802743,23,"Milk Products",Item_19_MILK,32,6,192,"Credit Card",Online,2023-09-17,FALSE
+5930319,16,"Electric household essentials",Item_15_EHE,26,3,78,Cash,In-store,2022-08-29,FALSE
+3141947,14,Food,Item_17_FOOD,29,7,203,"Credit Card",In-store,2022-08-10,FALSE
+6126899,10,"Milk Products",Item_13_MILK,23,7,161,"Credit Card",In-store,2023-11-08,FALSE
+4759687,24,"Milk Products",Item_2_MILK,7,10,65,"Credit Card",Online,2023-06-20,TRUE
+7157580,14,Food,Item_12_FOOD,22,9,193.5,"Digital Wallet",Online,2022-11-05,TRUE
+4249343,22,"Milk Products",Item_17_MILK,29,2,58,"Digital Wallet",In-store,2022-07-10,FALSE
+6137503,2,Butchers,Item_23_BUT,38,7,266,"Credit Card",In-store,2022-04-05,FALSE
+5300736,2,Furniture,Item_24_FUR,40,7,276.5,Cash,In-store,2022-07-17,TRUE
+1370562,25,"Computers and electric accessories",Item_11_CEA,20,7,140,"Credit Card",Online,2022-09-01,FALSE
+7327686,2,Furniture,Item_11_FUR,20,2,40,Cash,Online,2024-05-17,FALSE
+6017693,14,Beverages,Item_11_BEV,20,1,20,"Digital Wallet",Online,2022-02-24,FALSE
+7165120,17,Patisserie,Item_22_PAT,37,2,73,Cash,In-store,2023-10-23,TRUE
+9703848,15,Food,Item_15_FOOD,26,4,104,Cash,Online,2022-06-16,FALSE
+2702011,12,Furniture,Item_12_FUR,22,5,107.5,Cash,Online,2023-12-28,TRUE
+6364377,10,"Milk Products",Item_17_MILK,29,2,58,"Credit Card",In-store,2024-12-03,FALSE
+8231762,11,Beverages,Item_20_BEV,34,6,201,"Credit Card",Online,2022-01-17,TRUE
+7101979,15,"Computers and electric accessories",Item_20_CEA,34,7,234.5,"Credit Card",In-store,2023-04-14,TRUE
+8788021,25,Food,Item_17_FOOD,29,3,87,"Digital Wallet",In-store,2024-11-26,FALSE
+6917255,7,Food,Item_8_FOOD,16,6,93,"Credit Card",In-store,2024-07-31,TRUE
+3821185,23,"Computers and electric accessories",Item_15_CEA,26,4,104,"Digital Wallet",In-store,2024-09-11,FALSE
+5773991,1,Food,Item_3_FOOD,8,7,56,Cash,Online,2022-09-30,FALSE
+8508384,18,Food,Item_4_FOOD,10,3,28.5,"Credit Card",In-store,2022-01-29,TRUE
+5636224,23,"Computers and electric accessories",Item_12_CEA,22,4,86,Cash,Online,2024-10-04,TRUE
+9191575,1,"Milk Products",Item_4_MILK,10,7,66.5,"Digital Wallet",In-store,2024-01-28,TRUE
+8994966,14,Butchers,Item_5_BUT,11,5,55,Cash,Online,2024-12-25,FALSE
+6205992,11,Beverages,Item_8_BEV,16,6,93,"Credit Card",In-store,2023-07-08,TRUE
+4108548,20,"Electric household essentials",Item_6_EHE,13,2,25,Cash,Online,2023-03-12,TRUE
+8781758,20,Furniture,Item_5_FUR,11,5,55,"Credit Card",In-store,2024-02-13,FALSE
+5396051,8,Butchers,Item_20_BUT,34,2,67,Cash,In-store,2024-09-01,TRUE
+4766907,3,Butchers,Item_8_BUT,16,9,139.5,"Digital Wallet",Online,2022-03-05,TRUE
+4191425,25,Beverages,Item_18_BEV,31,1,30.5,"Digital Wallet",In-store,2024-10-08,TRUE
+1721597,22,"Computers and electric accessories",Item_11_CEA,20,1,20,"Credit Card",Online,2023-04-20,FALSE
+8418594,23,Food,Item_4_FOOD,10,9,85.5,"Credit Card",In-store,2024-12-10,TRUE
+9717999,3,Furniture,Item_14_FUR,25,2,49,"Digital Wallet",In-store,2022-04-29,TRUE
+5430495,11,Beverages,Item_20_BEV,34,5,167.5,"Digital Wallet",Online,2024-01-11,TRUE
+8715323,9,Butchers,Item_20_BUT,34,2,67,"Credit Card",In-store,2023-03-12,TRUE
+9730853,19,Beverages,Item_11_BEV,20,3,60,"Credit Card",Online,2022-11-16,FALSE
+4924226,5,Beverages,Item_8_BEV,16,4,62,Cash,In-store,2023-03-06,TRUE
+2086962,13,Food,Item_6_FOOD,13,5,62.5,"Credit Card",In-store,2022-04-06,TRUE
+7037115,7,Furniture,Item_5_FUR,11,5,55,"Credit Card",In-store,2024-02-23,FALSE
+1534987,4,Food,Item_6_FOOD,13,3,37.5,Cash,Online,2022-07-03,TRUE
+3302248,20,"Electric household essentials",Item_10_EHE,19,3,55.5,"Credit Card",Online,2024-01-04,TRUE
+7830284,19,"Electric household essentials",Item_21_EHE,35,5,175,"Credit Card",Online,2022-08-10,FALSE
+8466219,25,Butchers,Item_16_BUT,28,4,110,"Digital Wallet",In-store,2022-05-15,TRUE
+6321123,17,Furniture,Item_6_FUR,13,9,112.5,"Credit Card",In-store,2024-05-25,TRUE
+4825724,1,Furniture,Item_24_FUR,40,1,39.5,"Digital Wallet",In-store,2024-12-22,TRUE
+9634891,25,"Computers and electric accessories",Item_17_CEA,29,6,174,"Credit Card",Online,2022-01-14,FALSE
+8935391,16,"Milk Products",NULL,28,1,27.5,"Credit Card",Online,2022-09-06,TRUE
+5910508,8,Patisserie,Item_8_PAT,16,10,155,"Digital Wallet",In-store,2022-11-15,TRUE
+6889696,10,"Electric household essentials",Item_8_EHE,16,3,46.5,Cash,Online,2023-06-20,TRUE
+7543333,24,"Computers and electric accessories",Item_16_CEA,28,5,137.5,"Digital Wallet",In-store,2022-03-28,TRUE
+4396240,23,"Electric household essentials",Item_23_EHE,38,9,342,Cash,Online,2024-04-28,FALSE
+3375368,12,"Milk Products",Item_11_MILK,20,1,20,"Digital Wallet",In-store,2022-04-08,FALSE
+8827064,2,Food,Item_5_FOOD,11,2,22,"Credit Card",Online,2022-11-10,FALSE
+2975097,2,Butchers,Item_22_BUT,37,7,255.5,Cash,In-store,2023-03-12,TRUE
+9586952,11,"Computers and electric accessories",Item_7_CEA,14,3,42,"Digital Wallet",Online,2023-06-19,FALSE
+3575121,17,Food,Item_12_FOOD,22,8,172,Cash,Online,2022-09-06,TRUE
+3686072,3,Butchers,Item_21_BUT,35,5,175,"Credit Card",In-store,2023-02-23,FALSE
+1745446,2,"Computers and electric accessories",Item_17_CEA,29,1,29,Cash,Online,2022-12-11,FALSE
+1909877,13,"Milk Products",Item_19_MILK,32,10,320,Cash,Online,2024-06-08,FALSE
+9007323,12,Furniture,Item_8_FUR,16,9,139.5,Cash,In-store,2022-05-08,TRUE
+8629942,20,Beverages,Item_24_BEV,40,4,158,Cash,In-store,2024-12-08,TRUE
+6357302,20,Beverages,Item_15_BEV,26,1,26,"Credit Card",In-store,2022-09-09,FALSE
+8755760,10,"Milk Products",Item_13_MILK,23,9,207,"Digital Wallet",In-store,2024-10-22,FALSE
+5750056,24,Furniture,Item_21_FUR,35,2,70,"Digital Wallet",In-store,2023-09-20,FALSE
+7435444,18,"Computers and electric accessories",Item_11_CEA,20,6,120,"Credit Card",Online,2022-07-27,FALSE
+3812949,17,Beverages,Item_17_BEV,29,1,29,Cash,In-store,2023-07-07,FALSE
+3743264,20,"Milk Products",Item_20_MILK,34,2,67,"Digital Wallet",In-store,2022-12-27,TRUE
+5114872,10,"Computers and electric accessories",Item_2_CEA,7,1,6.5,Cash,In-store,2024-01-27,TRUE
+2199268,15,Patisserie,Item_9_PAT,17,2,34,Cash,In-store,2024-10-06,FALSE
+7472110,20,Patisserie,Item_8_PAT,16,3,46.5,"Credit Card",Online,2022-08-02,TRUE
+8360887,12,"Milk Products",Item_22_MILK,37,10,365,Cash,Online,2024-12-06,TRUE
+5926927,24,Patisserie,Item_11_PAT,20,1,20,"Credit Card",Online,2025-01-03,FALSE
+1931979,25,Beverages,Item_15_BEV,26,6,156,Cash,In-store,2024-10-21,FALSE
+2845414,24,Furniture,Item_21_FUR,35,10,350,"Digital Wallet",Online,2023-06-19,FALSE
+2231888,24,Patisserie,Item_23_PAT,38,6,228,Cash,In-store,2024-10-07,FALSE
+3603496,3,"Computers and electric accessories",Item_22_CEA,37,8,292,"Credit Card",Online,2023-11-08,TRUE
+7423131,8,Patisserie,Item_12_PAT,22,3,64.5,"Digital Wallet",Online,2023-09-08,TRUE
+1176248,16,Beverages,Item_4_BEV,10,6,57,"Credit Card",In-store,2022-12-06,TRUE
+6490027,19,Beverages,Item_21_BEV,35,9,315,"Credit Card",Online,2024-08-20,FALSE
+6267373,19,Food,Item_17_FOOD,29,6,174,"Digital Wallet",Online,2022-05-29,FALSE
+2633712,4,Furniture,Item_15_FUR,26,6,156,Cash,In-store,2023-01-14,FALSE
+2028333,18,"Milk Products",NULL,28,4,110,"Digital Wallet",In-store,2024-07-28,TRUE
+4452566,15,Beverages,Item_4_BEV,10,8,76,"Digital Wallet",In-store,2022-01-07,TRUE
+5476798,2,Butchers,NULL,38,10,380,"Digital Wallet",Online,2022-10-07,FALSE
+5544428,18,"Computers and electric accessories",Item_13_CEA,23,8,184,"Credit Card",Online,2023-07-25,FALSE
+3245999,8,Furniture,Item_21_FUR,35,10,350,"Credit Card",Online,2024-08-08,FALSE
+7101386,16,"Computers and electric accessories",Item_20_CEA,34,5,167.5,Cash,In-store,2022-11-05,TRUE
+9141699,6,Food,Item_22_FOOD,37,2,73,Cash,Online,2023-05-04,TRUE
+1459286,3,Furniture,Item_20_FUR,34,1,33.5,Cash,Online,2024-11-18,TRUE
+1714958,10,Beverages,Item_17_BEV,29,5,145,Cash,Online,2023-05-17,FALSE
+4250184,5,Furniture,Item_12_FUR,22,10,215,"Credit Card",Online,2023-08-27,TRUE
+5288250,11,Furniture,Item_5_FUR,11,4,44,"Credit Card",In-store,2022-12-01,FALSE
+8376834,16,"Computers and electric accessories",Item_6_CEA,13,6,75,"Digital Wallet",Online,2023-02-03,TRUE
+9976272,23,"Milk Products",Item_16_MILK,28,1,27.5,"Credit Card",Online,2023-08-22,TRUE
+2992398,23,"Milk Products",Item_13_MILK,23,1,23,"Digital Wallet",In-store,2023-09-13,FALSE
+8933445,6,Food,Item_13_FOOD,23,5,115,"Digital Wallet",Online,2025-01-16,FALSE
+2683845,17,Butchers,Item_18_BUT,31,10,305,Cash,Online,2022-08-01,TRUE
+4141037,18,"Computers and electric accessories",Item_23_CEA,38,3,114,Cash,In-store,2022-05-02,FALSE
+4978776,4,Butchers,Item_25_BUT,41,8,328,"Credit Card",Online,2024-03-17,FALSE
+2228646,12,"Computers and electric accessories",Item_18_CEA,31,9,274.5,"Digital Wallet",In-store,2022-02-12,TRUE
+1644496,25,Butchers,Item_21_BUT,35,6,210,Cash,Online,2022-06-30,FALSE
+1076536,23,"Computers and electric accessories",Item_8_CEA,16,7,108.5,"Digital Wallet",In-store,2023-05-24,TRUE
+6771103,11,Butchers,Item_1_BUT,5,3,15,Cash,Online,2024-06-17,FALSE
+2885265,19,"Computers and electric accessories",Item_25_CEA,41,6,246,"Digital Wallet",In-store,2022-08-07,FALSE
+1196570,22,Beverages,Item_6_BEV,13,8,100,"Digital Wallet",Online,2024-02-09,TRUE
+9441688,3,Patisserie,Item_4_PAT,10,10,95,"Digital Wallet",In-store,2022-08-23,TRUE
+1126177,5,Patisserie,Item_7_PAT,14,9,126,"Digital Wallet",In-store,2022-09-26,FALSE
+1232531,12,Beverages,Item_2_BEV,7,3,19.5,Cash,Online,2024-05-27,TRUE
+8266591,2,Food,Item_5_FOOD,11,9,99,"Digital Wallet",In-store,2024-12-01,FALSE
+8073779,25,Patisserie,Item_20_PAT,34,7,234.5,"Credit Card",In-store,2022-07-03,TRUE
+8261937,14,"Electric household essentials",Item_5_EHE,11,2,22,"Digital Wallet",In-store,2022-03-10,FALSE
+3617161,10,"Computers and electric accessories",Item_12_CEA,22,7,150.5,Cash,Online,2022-04-16,TRUE
+3904812,23,Beverages,Item_15_BEV,26,9,234,"Credit Card",Online,2022-03-22,FALSE
+6684210,11,"Electric household essentials",Item_9_EHE,17,3,51,Cash,Online,2023-02-16,FALSE
+5849098,16,Furniture,NULL,35,3,105,Cash,Online,2024-06-23,FALSE
+3010762,24,Furniture,NULL,5,2,10,"Digital Wallet",In-store,2023-07-14,FALSE
+2693158,18,Patisserie,Item_7_PAT,14,10,140,"Digital Wallet",In-store,2022-10-28,FALSE
+9205349,24,Furniture,Item_7_FUR,14,7,98,"Credit Card",Online,2022-10-24,FALSE
+5743023,22,"Electric household essentials",Item_12_EHE,22,2,43,"Credit Card",Online,2022-12-17,TRUE
+7263862,8,"Milk Products",Item_2_MILK,7,8,52,"Credit Card",In-store,2024-07-08,TRUE
+9293724,18,"Electric household essentials",Item_6_EHE,13,6,75,Cash,In-store,2022-11-13,TRUE
+8674901,17,Furniture,Item_15_FUR,26,1,26,Cash,Online,2022-07-02,FALSE
+1537702,25,Furniture,Item_20_FUR,34,1,33.5,"Digital Wallet",In-store,2022-06-05,TRUE
+3910370,22,Beverages,Item_14_BEV,25,2,49,"Digital Wallet",In-store,2022-12-23,TRUE
+5005963,12,"Milk Products",Item_1_MILK,5,5,25,"Credit Card",Online,2024-03-27,FALSE
+3330819,21,"Computers and electric accessories",Item_2_CEA,7,6,39,"Digital Wallet",In-store,2022-01-19,TRUE
+3549273,20,Furniture,Item_11_FUR,20,9,180,Cash,In-store,2023-08-01,FALSE
+6746331,11,Butchers,Item_13_BUT,23,3,69,"Digital Wallet",In-store,2024-07-08,FALSE
+5554744,7,Furniture,Item_25_FUR,41,9,369,"Digital Wallet",In-store,2024-07-07,FALSE
+3404023,4,"Electric household essentials",Item_23_EHE,38,4,152,"Digital Wallet",Online,2022-08-08,FALSE
+5258958,7,Butchers,Item_11_BUT,20,10,200,"Digital Wallet",Online,2024-11-23,FALSE
+7604627,9,Butchers,Item_22_BUT,37,2,73,Cash,Online,2023-04-19,TRUE
+5912161,11,Patisserie,Item_22_PAT,37,10,365,Cash,In-store,2022-11-04,TRUE
+8490314,24,"Electric household essentials",Item_15_EHE,26,3,78,Cash,In-store,2024-12-28,FALSE
+1871813,10,Beverages,Item_7_BEV,14,1,14,Cash,In-store,2022-08-09,FALSE
+2217907,7,Beverages,Item_14_BEV,25,2,49,"Credit Card",In-store,2022-05-15,TRUE
+5986313,5,Beverages,Item_24_BEV,40,6,237,"Credit Card",In-store,2023-01-03,TRUE
+4967670,2,Patisserie,Item_4_PAT,10,9,85.5,Cash,In-store,2022-07-15,TRUE
+6964259,14,"Milk Products",Item_6_MILK,13,6,75,"Credit Card",Online,2023-09-29,TRUE
+2012246,17,Furniture,Item_11_FUR,20,8,160,"Credit Card",In-store,2023-08-28,FALSE
+5926696,12,Butchers,Item_20_BUT,34,8,268,"Credit Card",Online,2022-08-24,TRUE
+1550220,13,Food,Item_6_FOOD,13,10,125,"Credit Card",In-store,2023-02-03,TRUE
+7005877,6,"Electric household essentials",Item_12_EHE,22,8,172,"Digital Wallet",Online,2022-11-25,TRUE
+4385983,25,"Milk Products",Item_13_MILK,23,3,69,"Digital Wallet",Online,2024-08-24,FALSE
+5292453,9,Furniture,Item_16_FUR,28,8,220,Cash,Online,2023-04-22,TRUE
+3747046,11,"Electric household essentials",Item_18_EHE,31,2,61,"Digital Wallet",Online,2022-11-22,TRUE
+5563947,1,Food,Item_17_FOOD,29,3,87,"Digital Wallet",In-store,2022-06-02,FALSE
+8839706,15,Patisserie,Item_6_PAT,13,10,125,"Credit Card",Online,2024-11-28,TRUE
+1778326,20,"Computers and electric accessories",Item_14_CEA,25,9,220.5,"Credit Card",In-store,2023-09-01,TRUE
+2119388,17,Butchers,Item_16_BUT,28,7,192.5,"Digital Wallet",Online,2022-09-13,TRUE
+8707599,7,Food,Item_6_FOOD,13,10,125,Cash,In-store,2022-01-26,TRUE
+5367164,20,Furniture,Item_15_FUR,26,8,208,"Credit Card",In-store,2023-12-13,FALSE
+9429754,14,"Milk Products",Item_9_MILK,17,8,136,Cash,Online,2023-08-27,FALSE
+1750091,1,"Milk Products",Item_4_MILK,10,1,9.5,"Credit Card",In-store,2023-06-19,TRUE
+1101287,5,Furniture,Item_11_FUR,20,2,40,"Credit Card",Online,2024-01-05,FALSE
+8972051,10,"Electric household essentials",Item_17_EHE,29,1,29,"Credit Card",In-store,2024-02-28,FALSE
+9856909,10,Patisserie,Item_14_PAT,25,7,171.5,Cash,In-store,2022-07-10,TRUE
+9906990,22,Butchers,Item_3_BUT,8,9,72,"Digital Wallet",In-store,2022-07-11,FALSE
+3104119,19,Furniture,Item_4_FUR,10,2,19,Cash,Online,2022-04-19,TRUE
+6829985,5,Beverages,Item_3_BEV,8,2,16,Cash,Online,2023-11-22,FALSE
+6375821,19,Butchers,Item_25_BUT,41,5,205,"Credit Card",Online,2023-09-29,FALSE
+7205141,4,"Milk Products",Item_5_MILK,11,1,11,Cash,In-store,2022-05-29,FALSE
+9749789,18,"Milk Products",Item_19_MILK,32,2,64,"Credit Card",In-store,2024-12-10,FALSE
+7796666,13,Food,Item_12_FOOD,22,10,215,Cash,Online,2024-09-08,TRUE
+4327459,14,Beverages,Item_14_BEV,25,7,171.5,"Credit Card",In-store,2022-01-09,TRUE
+8608354,8,Patisserie,Item_22_PAT,37,1,36.5,"Digital Wallet",In-store,2024-04-09,TRUE
+1036311,16,"Electric household essentials",Item_17_EHE,29,1,29,Cash,In-store,2022-12-22,FALSE
+8321866,1,Furniture,Item_8_FUR,16,4,62,"Credit Card",Online,2023-08-27,TRUE
+5896151,21,"Electric household essentials",Item_15_EHE,26,6,156,"Digital Wallet",Online,2024-02-25,FALSE
+1157052,24,Butchers,Item_13_BUT,23,4,92,"Credit Card",Online,2022-11-02,FALSE
+5381793,5,Furniture,Item_3_FUR,8,9,72,Cash,In-store,2024-12-09,FALSE
+3197907,25,Patisserie,Item_19_PAT,32,6,192,Cash,In-store,2024-02-09,FALSE
+9891054,20,"Computers and electric accessories",Item_15_CEA,26,10,260,Cash,Online,2022-10-11,FALSE
+7359436,16,Food,Item_14_FOOD,25,10,245,Cash,In-store,2024-01-02,TRUE
+6016690,6,"Computers and electric accessories",Item_11_CEA,20,3,60,"Credit Card",Online,2023-12-13,FALSE
+3615491,2,Patisserie,Item_9_PAT,17,7,119,"Credit Card",In-store,2023-09-25,FALSE
+5238211,9,Furniture,Item_15_FUR,26,8,208,Cash,In-store,2023-12-15,FALSE
+2861834,25,Patisserie,Item_15_PAT,26,3,78,Cash,Online,2023-04-01,FALSE
+5236248,21,Food,Item_10_FOOD,19,9,166.5,Cash,Online,2025-01-15,TRUE
+2694098,9,"Milk Products",Item_11_MILK,20,10,200,Cash,Online,2024-10-20,FALSE
+3299143,11,Furniture,Item_2_FUR,7,9,58.5,"Credit Card",Online,2024-03-02,TRUE
+6159011,21,Furniture,Item_2_FUR,7,1,6.5,"Digital Wallet",Online,2022-07-20,TRUE
+1350410,1,Furniture,Item_10_FUR,19,3,55.5,"Credit Card",Online,2024-09-11,TRUE
+7958601,8,"Milk Products",Item_15_MILK,26,1,26,Cash,Online,2022-06-11,FALSE
+9618417,24,"Electric household essentials",Item_5_EHE,11,10,110,Cash,Online,2022-10-05,FALSE
+1151406,4,Butchers,Item_19_BUT,32,9,288,"Digital Wallet",Online,2022-05-18,FALSE
+1358761,10,Food,Item_6_FOOD,13,3,37.5,Cash,In-store,2024-05-15,TRUE
+1134117,18,Beverages,Item_20_BEV,34,1,33.5,Cash,Online,2024-12-30,TRUE
+5805061,6,Beverages,Item_8_BEV,16,3,46.5,"Credit Card",Online,2023-07-31,TRUE
+6322703,17,"Milk Products",Item_1_MILK,5,2,10,Cash,In-store,2023-07-11,FALSE
+3402387,22,Food,Item_4_FOOD,10,3,28.5,"Credit Card",Online,2023-11-30,TRUE
+3009822,20,Patisserie,Item_11_PAT,20,5,100,Cash,In-store,2024-05-07,FALSE
+4836949,7,"Computers and electric accessories",Item_14_CEA,25,10,245,"Credit Card",In-store,2022-02-02,TRUE
+7558362,8,Patisserie,Item_2_PAT,7,4,26,"Credit Card",In-store,2024-06-01,TRUE
+2550629,10,Butchers,Item_23_BUT,38,5,190,"Digital Wallet",Online,2022-04-03,FALSE
+1476715,11,Beverages,Item_17_BEV,29,8,232,"Credit Card",In-store,2022-02-08,FALSE
+5653387,12,Furniture,Item_7_FUR,14,7,98,"Credit Card",Online,2022-05-29,FALSE
+8819433,6,"Computers and electric accessories",Item_12_CEA,22,8,172,"Digital Wallet",In-store,2024-04-15,TRUE
+3120139,23,Food,Item_4_FOOD,10,6,57,"Credit Card",Online,2024-02-11,TRUE
+9998575,13,Food,Item_6_FOOD,13,9,112.5,"Credit Card",In-store,2024-01-02,TRUE
+8519777,16,Beverages,Item_24_BEV,40,3,118.5,"Digital Wallet",Online,2022-07-02,TRUE
+7797790,24,Beverages,Item_19_BEV,32,7,224,"Digital Wallet",Online,2022-10-09,FALSE
+3184832,6,"Electric household essentials",Item_11_EHE,20,2,40,"Credit Card",In-store,2022-02-08,FALSE
+7741209,7,"Milk Products",Item_3_MILK,8,6,48,Cash,In-store,2024-06-10,FALSE
+4077794,19,Butchers,Item_23_BUT,38,2,76,Cash,In-store,2024-07-30,FALSE
+3292575,15,Furniture,Item_16_FUR,28,5,137.5,"Credit Card",Online,2024-04-15,TRUE
+6959357,7,"Milk Products",Item_6_MILK,13,4,50,Cash,In-store,2023-02-23,TRUE
+5532386,2,"Milk Products",Item_13_MILK,23,7,161,"Credit Card",Online,2024-03-19,FALSE
+4242577,12,Butchers,Item_25_BUT,41,5,205,Cash,Online,2023-02-21,FALSE
+2251911,8,Furniture,Item_20_FUR,34,9,301.5,"Digital Wallet",In-store,2024-09-28,TRUE
+4034256,7,Furniture,Item_11_FUR,20,6,120,"Digital Wallet",Online,2022-02-06,FALSE
+8491772,7,"Electric household essentials",Item_23_EHE,38,3,114,Cash,Online,2022-10-21,FALSE
+3348274,11,Food,Item_20_FOOD,34,4,134,Cash,Online,2022-03-24,TRUE
+3986908,13,Food,Item_4_FOOD,10,4,38,"Credit Card",Online,2024-10-27,TRUE
+4848504,7,Furniture,Item_12_FUR,22,4,86,"Credit Card",Online,2023-01-06,TRUE
+3238663,6,Butchers,Item_8_BUT,16,3,46.5,Cash,In-store,2023-11-29,TRUE
+7467332,15,Furniture,Item_2_FUR,7,3,19.5,"Digital Wallet",Online,2022-04-19,TRUE
+4722486,4,Furniture,Item_20_FUR,34,2,67,Cash,Online,2023-12-11,TRUE
+7434102,21,Butchers,Item_20_BUT,34,7,234.5,Cash,Online,2022-12-11,TRUE
+2862297,11,Butchers,Item_7_BUT,14,9,126,"Credit Card",In-store,2022-09-08,FALSE
+5498786,11,"Computers and electric accessories",Item_25_CEA,41,7,287,"Credit Card",In-store,2024-07-18,FALSE
+2329223,15,Food,Item_22_FOOD,37,10,365,"Credit Card",Online,2024-07-15,TRUE
+7821157,11,"Computers and electric accessories",Item_9_CEA,17,8,136,"Credit Card",Online,2022-08-22,FALSE
+1972761,23,Patisserie,NULL,8,10,80,"Credit Card",In-store,2024-10-24,FALSE
+5366697,1,"Milk Products",Item_1_MILK,5,1,5,"Credit Card",In-store,2023-07-25,FALSE
+5510641,14,Patisserie,Item_17_PAT,29,3,87,Cash,Online,2023-10-21,FALSE
+1608137,20,Beverages,Item_11_BEV,20,8,160,Cash,Online,2022-03-13,FALSE
+1623314,20,Patisserie,Item_4_PAT,10,8,76,"Digital Wallet",In-store,2024-12-26,TRUE
+9269245,7,Butchers,Item_6_BUT,13,1,12.5,"Credit Card",In-store,2024-12-15,TRUE
+8785418,7,Patisserie,Item_1_PAT,5,9,45,"Credit Card",Online,2023-02-12,FALSE
+8487838,18,"Computers and electric accessories",NULL,11,4,44,"Digital Wallet",Online,2023-02-04,FALSE
+8224848,20,"Computers and electric accessories",Item_3_CEA,8,5,40,"Digital Wallet",In-store,2022-12-18,FALSE
+6166688,8,Patisserie,Item_25_PAT,41,6,246,"Credit Card",Online,2023-09-29,FALSE
+9951016,25,Patisserie,Item_2_PAT,7,3,19.5,Cash,Online,2022-02-01,TRUE
+4956767,8,Furniture,Item_7_FUR,14,8,112,"Credit Card",Online,2023-03-19,FALSE
+4657003,6,Butchers,Item_8_BUT,16,10,155,Cash,In-store,2024-07-05,TRUE
+1392217,23,Patisserie,Item_8_PAT,16,9,139.5,"Digital Wallet",Online,2024-09-11,TRUE
+8507665,13,Butchers,Item_18_BUT,31,8,244,"Digital Wallet",Online,2023-04-08,TRUE
+3147709,4,Butchers,Item_2_BUT,7,1,6.5,"Credit Card",Online,2025-01-05,TRUE
+4445756,15,Patisserie,NULL,41,4,164,"Credit Card",In-store,2023-10-26,FALSE
+7837225,19,Furniture,Item_19_FUR,32,3,96,Cash,In-store,2023-09-08,FALSE
+6598320,6,Food,Item_6_FOOD,13,4,50,"Digital Wallet",Online,2024-05-05,TRUE
+9170556,16,"Milk Products",Item_1_MILK,5,7,35,Cash,In-store,2023-05-28,FALSE
+8863568,22,Furniture,Item_21_FUR,35,2,70,"Digital Wallet",Online,2022-05-25,FALSE
+9077506,22,"Milk Products",Item_13_MILK,23,1,23,"Credit Card",Online,2023-07-11,FALSE
+8678885,21,"Milk Products",Item_3_MILK,8,6,48,Cash,In-store,2022-06-01,FALSE
+1256115,20,"Computers and electric accessories",Item_10_CEA,19,5,92.5,"Credit Card",Online,2024-11-25,TRUE
+6857566,23,"Computers and electric accessories",NULL,23,2,46,"Credit Card",In-store,2024-03-14,FALSE
+7425088,7,"Computers and electric accessories",Item_19_CEA,32,5,160,"Credit Card",In-store,2022-03-25,FALSE
+3757243,9,Patisserie,Item_11_PAT,20,10,200,Cash,In-store,2024-12-09,FALSE
+7634598,6,"Electric household essentials",Item_8_EHE,16,7,108.5,Cash,In-store,2022-04-30,TRUE
+8664749,24,"Milk Products",Item_7_MILK,14,7,98,Cash,In-store,2024-08-17,FALSE
+1011915,16,Patisserie,Item_19_PAT,32,10,320,"Credit Card",In-store,2023-03-25,FALSE
+4693988,6,Butchers,Item_13_BUT,23,10,230,Cash,Online,2023-04-15,FALSE
+5703677,23,Butchers,Item_6_BUT,13,9,112.5,Cash,In-store,2022-09-13,TRUE
+7914914,19,Patisserie,Item_1_PAT,5,4,20,Cash,In-store,2025-01-04,FALSE
+5598006,5,"Electric household essentials",Item_13_EHE,23,5,115,Cash,In-store,2024-01-09,FALSE
+4438498,7,Beverages,Item_14_BEV,25,5,122.5,"Credit Card",Online,2022-06-02,TRUE
+9898312,18,"Electric household essentials",Item_16_EHE,28,7,192.5,"Credit Card",Online,2024-03-06,TRUE
+9410325,25,"Electric household essentials",Item_15_EHE,26,9,234,"Digital Wallet",Online,2023-09-13,FALSE
+2914395,19,"Computers and electric accessories",Item_6_CEA,13,2,25,"Credit Card",Online,2022-12-26,TRUE
+8624505,19,Food,NULL,23,9,207,Cash,In-store,2023-09-15,FALSE
+4104691,18,Beverages,Item_9_BEV,17,7,119,"Digital Wallet",Online,2024-05-23,FALSE
+7557655,11,Furniture,Item_20_FUR,34,8,268,"Credit Card",Online,2022-04-04,TRUE
+2192964,17,Food,Item_9_FOOD,17,7,119,"Digital Wallet",In-store,2022-01-29,FALSE
+5157703,17,"Electric household essentials",Item_1_EHE,5,10,50,Cash,In-store,2022-08-30,FALSE
+9861104,2,"Electric household essentials",Item_23_EHE,38,1,38,"Credit Card",In-store,2024-05-01,FALSE
+5135315,25,Furniture,Item_1_FUR,5,5,25,"Credit Card",Online,2022-03-12,FALSE
+2641403,4,Furniture,Item_1_FUR,5,3,15,"Digital Wallet",Online,2022-07-12,FALSE
+8263646,5,Butchers,Item_20_BUT,34,4,134,Cash,In-store,2022-11-15,TRUE
+3609446,1,Butchers,Item_3_BUT,8,9,72,"Digital Wallet",In-store,2022-12-27,FALSE
+1713611,24,"Electric household essentials",Item_16_EHE,28,1,27.5,"Digital Wallet",Online,2024-09-14,TRUE
+2843259,24,Patisserie,NULL,28,1,27.5,"Digital Wallet",In-store,2023-03-25,TRUE
+6957171,16,Butchers,Item_23_BUT,38,7,266,Cash,Online,2024-05-20,FALSE
+2266101,15,Patisserie,Item_19_PAT,32,2,64,"Digital Wallet",In-store,2024-01-29,FALSE
+5083807,9,Butchers,Item_10_BUT,19,4,74,Cash,Online,2023-01-03,TRUE
+8359203,11,"Electric household essentials",Item_9_EHE,17,9,153,"Credit Card",In-store,2023-10-30,FALSE
+1814138,6,Beverages,Item_25_BEV,41,10,410,"Credit Card",In-store,2024-11-16,FALSE
+3278532,7,Furniture,NULL,28,9,247.5,Cash,In-store,2025-01-12,TRUE
+5044125,2,Furniture,Item_25_FUR,41,7,287,"Digital Wallet",Online,2024-01-30,FALSE
+2880856,18,Patisserie,Item_13_PAT,23,4,92,"Credit Card",In-store,2024-02-15,FALSE
+6337676,7,Furniture,Item_5_FUR,11,9,99,"Digital Wallet",In-store,2023-02-28,FALSE
+8948224,12,Food,Item_11_FOOD,20,10,200,"Credit Card",Online,2023-03-14,FALSE
+8431366,12,Butchers,Item_25_BUT,41,9,369,"Credit Card",Online,2024-01-01,FALSE
+6311622,17,Furniture,Item_17_FUR,29,7,203,"Credit Card",In-store,2023-11-30,FALSE
+4879594,14,Furniture,Item_15_FUR,26,9,234,"Digital Wallet",Online,2023-12-26,FALSE
+4274209,1,Beverages,Item_10_BEV,19,9,166.5,Cash,Online,2024-11-19,TRUE
+6178045,6,Food,Item_6_FOOD,13,1,12.5,"Credit Card",Online,2024-02-03,TRUE
+7893748,24,Beverages,Item_12_BEV,22,5,107.5,Cash,Online,2022-06-06,TRUE
+1929919,21,Butchers,Item_7_BUT,14,6,84,Cash,In-store,2023-07-27,FALSE
+4250712,24,"Milk Products",Item_11_MILK,20,5,100,"Credit Card",Online,2022-10-17,FALSE
+8568584,14,Butchers,Item_20_BUT,34,4,134,Cash,Online,2024-09-25,TRUE
+3512388,14,Furniture,NULL,11,10,110,"Digital Wallet",In-store,2024-03-30,FALSE
+5518578,6,"Electric household essentials",Item_19_EHE,32,6,192,Cash,In-store,2022-09-15,FALSE
+3665861,23,Furniture,Item_18_FUR,31,1,30.5,"Credit Card",Online,2023-01-30,TRUE
+6625191,22,Beverages,Item_14_BEV,25,8,196,"Digital Wallet",Online,2022-05-23,TRUE
+2259360,25,"Electric household essentials",Item_12_EHE,22,6,129,"Digital Wallet",In-store,2022-02-17,TRUE
+4732308,14,"Milk Products",Item_13_MILK,23,4,92,"Credit Card",In-store,2022-11-28,FALSE
+5276201,8,"Computers and electric accessories",Item_21_CEA,35,7,245,"Digital Wallet",In-store,2023-03-24,FALSE
+8905154,9,Butchers,NULL,23,5,115,"Credit Card",In-store,2022-10-24,FALSE
+4785966,9,"Electric household essentials",Item_10_EHE,19,1,18.5,"Digital Wallet",In-store,2022-09-11,TRUE
+8377286,16,"Electric household essentials",Item_15_EHE,26,5,130,"Credit Card",In-store,2024-06-25,FALSE
+2789621,5,"Milk Products",Item_25_MILK,41,3,123,"Digital Wallet",In-store,2023-07-15,FALSE
+5084402,12,Butchers,Item_22_BUT,37,1,36.5,Cash,In-store,2024-04-06,TRUE
+8578826,24,"Computers and electric accessories",Item_9_CEA,17,3,51,"Digital Wallet",Online,2024-08-15,FALSE
+9979595,14,Butchers,Item_22_BUT,37,4,146,"Digital Wallet",Online,2023-03-02,TRUE
+4285730,17,Patisserie,Item_24_PAT,40,6,237,Cash,Online,2022-01-14,TRUE
+9212341,2,Butchers,Item_13_BUT,23,9,207,"Credit Card",In-store,2023-08-23,FALSE
+1587097,3,"Computers and electric accessories",Item_16_CEA,28,10,275,Cash,In-store,2024-02-25,TRUE
+3636688,23,Patisserie,Item_14_PAT,25,8,196,"Credit Card",Online,2025-01-05,TRUE
+8824415,10,"Computers and electric accessories",Item_10_CEA,19,4,74,"Credit Card",In-store,2023-06-11,TRUE
+8423309,16,"Computers and electric accessories",Item_3_CEA,8,9,72,"Credit Card",Online,2022-05-30,FALSE
+5634366,24,Patisserie,Item_19_PAT,32,2,64,Cash,Online,2023-06-12,FALSE
+1770062,5,Furniture,Item_25_FUR,41,2,82,Cash,In-store,2023-02-28,FALSE
+4344002,7,Beverages,Item_11_BEV,20,3,60,"Credit Card",Online,2023-09-28,FALSE
+4161318,21,"Electric household essentials",Item_13_EHE,23,7,161,"Credit Card",Online,2023-08-18,FALSE
+2718523,25,"Electric household essentials",Item_15_EHE,26,5,130,"Credit Card",In-store,2024-08-27,FALSE
+8660754,1,"Computers and electric accessories",Item_9_CEA,17,2,34,"Digital Wallet",In-store,2022-03-24,FALSE
+5283643,2,Beverages,Item_24_BEV,40,8,316,Cash,Online,2023-07-09,TRUE
+5401680,21,"Electric household essentials",Item_11_EHE,20,9,180,Cash,In-store,2023-01-23,FALSE
+6203639,11,Beverages,Item_19_BEV,32,5,160,"Digital Wallet",Online,2022-06-07,FALSE
+6461094,19,Beverages,Item_2_BEV,7,3,19.5,Cash,In-store,2024-04-04,TRUE
+8217860,4,"Computers and electric accessories",Item_17_CEA,29,10,290,"Credit Card",In-store,2022-07-23,FALSE
+2411071,17,"Electric household essentials",Item_25_EHE,41,4,164,Cash,In-store,2023-11-28,FALSE
+1898388,17,"Milk Products",Item_19_MILK,32,8,256,"Credit Card",In-store,2023-09-22,FALSE
+1787892,20,Food,Item_10_FOOD,19,6,111,"Digital Wallet",Online,2022-11-10,TRUE
+2031813,12,Butchers,NULL,6,1,6.5,"Credit Card",Online,2024-07-11,TRUE
+1426923,7,Food,Item_18_FOOD,31,5,152.5,Cash,In-store,2022-04-10,TRUE
+7988578,23,Butchers,Item_22_BUT,37,7,255.5,"Credit Card",In-store,2023-01-18,TRUE
+7642752,1,"Computers and electric accessories",Item_2_CEA,7,10,65,Cash,Online,2025-01-15,TRUE
+5676229,18,Food,Item_13_FOOD,23,2,46,"Credit Card",Online,2022-02-21,FALSE
+4235666,5,Furniture,Item_18_FUR,31,8,244,"Credit Card",Online,2022-05-19,TRUE
+6576597,3,"Computers and electric accessories",Item_10_CEA,19,9,166.5,Cash,Online,2023-02-09,TRUE
+2823534,6,Food,Item_3_FOOD,8,1,8,"Digital Wallet",In-store,2024-03-28,FALSE
+7633119,5,"Electric household essentials",Item_13_EHE,23,9,207,Cash,Online,2022-03-01,FALSE
+3833413,2,Butchers,Item_4_BUT,10,5,47.5,"Credit Card",In-store,2023-03-20,TRUE
+7085000,1,"Electric household essentials",Item_5_EHE,11,8,88,Cash,Online,2022-07-23,FALSE
+9925623,25,Beverages,Item_25_BEV,41,4,164,"Credit Card",Online,2022-08-20,FALSE
+6287957,1,Butchers,Item_16_BUT,28,5,137.5,"Credit Card",Online,2023-06-19,TRUE
+9187149,18,Butchers,Item_24_BUT,40,6,237,Cash,In-store,2022-01-13,TRUE
+7166849,10,Furniture,Item_8_FUR,16,7,108.5,"Credit Card",Online,2023-10-15,TRUE
+7189749,24,Butchers,Item_10_BUT,19,6,111,Cash,Online,2022-07-17,TRUE
+3818660,12,Food,Item_12_FOOD,22,4,86,Cash,In-store,2024-12-13,TRUE
+3470552,12,Furniture,Item_23_FUR,38,10,380,"Digital Wallet",Online,2024-03-09,FALSE
+2848606,21,"Electric household essentials",Item_20_EHE,34,6,201,Cash,In-store,2022-12-20,TRUE
+8262433,22,"Computers and electric accessories",Item_5_CEA,11,10,110,"Credit Card",Online,2023-09-18,FALSE
+5376341,16,Food,Item_9_FOOD,17,6,102,"Credit Card",Online,2022-02-22,FALSE
+7829206,23,Butchers,Item_8_BUT,16,1,15.5,Cash,Online,2024-12-05,TRUE
+4107798,25,"Computers and electric accessories",Item_18_CEA,31,6,183,Cash,Online,2022-09-08,TRUE
+9922518,8,Food,Item_22_FOOD,37,9,328.5,Cash,Online,2023-07-30,TRUE
+9250241,5,Beverages,Item_10_BEV,19,1,18.5,Cash,Online,2024-11-17,TRUE
+9218611,1,"Milk Products",Item_7_MILK,14,8,112,"Digital Wallet",Online,2023-12-16,FALSE
+2165118,11,Food,Item_17_FOOD,29,6,174,Cash,In-store,2023-11-28,FALSE
+1096977,7,Food,NULL,23,9,207,Cash,In-store,2024-12-07,FALSE
+1772882,15,Butchers,Item_11_BUT,20,9,180,"Digital Wallet",In-store,2023-12-18,FALSE
+7477131,15,Patisserie,Item_7_PAT,14,3,42,Cash,Online,2024-09-29,FALSE
+3499898,12,Furniture,Item_20_FUR,34,3,100.5,"Credit Card",Online,2024-03-28,TRUE
+9017628,19,Food,NULL,11,5,55,"Credit Card",In-store,2022-10-10,FALSE
+3294951,19,Food,Item_5_FOOD,11,10,110,Cash,In-store,2023-09-15,FALSE
+9568940,24,Patisserie,Item_12_PAT,22,5,107.5,Cash,Online,2025-01-02,TRUE
+2508784,2,Beverages,Item_8_BEV,16,7,108.5,"Credit Card",Online,2024-08-29,TRUE
+9196494,25,"Electric household essentials",Item_25_EHE,41,5,205,"Credit Card",In-store,2024-12-28,FALSE
+5928440,19,Furniture,Item_14_FUR,25,2,49,"Digital Wallet",In-store,2022-04-29,TRUE
+3264150,19,"Milk Products",Item_4_MILK,10,10,95,"Credit Card",Online,2023-03-24,TRUE
+5298533,3,Food,Item_6_FOOD,13,8,100,Cash,Online,2023-11-24,TRUE
+4777165,8,"Milk Products",Item_3_MILK,8,1,8,Cash,In-store,2022-06-01,FALSE
+7109246,4,Butchers,NULL,8,8,64,Cash,Online,2022-03-11,FALSE
+5616762,4,Butchers,NULL,22,8,172,"Credit Card",Online,2022-01-24,TRUE
+1231953,13,"Computers and electric accessories",Item_9_CEA,17,8,136,"Digital Wallet",Online,2024-02-16,FALSE
+7547051,23,Food,Item_25_FOOD,41,3,123,"Digital Wallet",In-store,2024-09-24,FALSE
+4162114,11,Food,Item_12_FOOD,22,5,107.5,Cash,Online,2023-05-02,TRUE
+4999688,18,"Computers and electric accessories",Item_12_CEA,22,7,150.5,"Credit Card",In-store,2023-01-13,TRUE
+4874732,24,Butchers,Item_25_BUT,41,5,205,Cash,Online,2022-10-04,FALSE
+9981851,3,Furniture,Item_25_FUR,41,9,369,"Digital Wallet",Online,2024-11-27,FALSE
+5086683,2,Furniture,Item_7_FUR,14,1,14,"Digital Wallet",Online,2024-10-13,FALSE
+7021336,25,Beverages,Item_3_BEV,8,10,80,"Digital Wallet",Online,2022-07-03,FALSE
+2059563,15,"Computers and electric accessories",Item_12_CEA,22,5,107.5,"Digital Wallet",Online,2024-07-23,TRUE
+1497345,15,Furniture,Item_14_FUR,25,8,196,Cash,Online,2022-01-05,TRUE
+2024330,2,Patisserie,Item_23_PAT,38,9,342,"Credit Card",Online,2024-06-29,FALSE
+1277309,24,"Computers and electric accessories",Item_7_CEA,14,9,126,"Credit Card",In-store,2023-06-01,FALSE
+6956313,4,Beverages,Item_2_BEV,7,10,65,Cash,In-store,2023-09-04,TRUE
+2334740,25,"Electric household essentials",Item_8_EHE,16,2,31,"Credit Card",In-store,2022-11-11,TRUE
+3803930,23,"Electric household essentials",Item_22_EHE,37,5,182.5,"Digital Wallet",Online,2025-01-14,TRUE
+3514548,18,"Electric household essentials",Item_25_EHE,41,1,41,"Credit Card",In-store,2024-04-05,FALSE
+8322817,23,Patisserie,NULL,38,8,304,"Digital Wallet",In-store,2022-06-15,FALSE
+2706063,15,Butchers,Item_12_BUT,22,4,86,Cash,Online,2022-09-10,TRUE
+8914114,16,"Milk Products",NULL,14,8,112,"Digital Wallet",In-store,2023-09-22,FALSE
+3426280,24,"Computers and electric accessories",Item_12_CEA,22,5,107.5,"Digital Wallet",In-store,2024-02-28,TRUE
+1465531,20,"Milk Products",Item_2_MILK,7,10,65,"Credit Card",In-store,2024-07-03,TRUE
+8355918,25,"Electric household essentials",Item_6_EHE,13,1,12.5,"Digital Wallet",In-store,2024-06-03,TRUE
+6666458,21,Furniture,Item_24_FUR,40,2,79,"Digital Wallet",In-store,2023-03-29,TRUE
+9941031,5,Patisserie,Item_5_PAT,11,5,55,"Credit Card",In-store,2023-04-14,FALSE
+8295482,23,"Electric household essentials",Item_20_EHE,34,3,100.5,Cash,Online,2022-11-09,TRUE
+5747894,14,Beverages,Item_7_BEV,14,6,84,"Credit Card",Online,2024-09-25,FALSE
+8420316,7,Food,Item_14_FOOD,25,7,171.5,"Digital Wallet",In-store,2024-02-21,TRUE
+8847569,16,"Electric household essentials",Item_21_EHE,35,5,175,Cash,In-store,2023-07-19,FALSE
+1662766,18,"Milk Products",Item_16_MILK,28,2,55,"Digital Wallet",Online,2024-05-19,TRUE
+6276011,15,Butchers,Item_22_BUT,37,4,146,Cash,Online,2022-06-10,TRUE
+9003488,11,"Computers and electric accessories",Item_4_CEA,10,7,66.5,Cash,Online,2022-10-22,TRUE
+2510850,8,Beverages,Item_12_BEV,22,7,150.5,Cash,In-store,2024-02-15,TRUE
+5038261,17,Patisserie,Item_1_PAT,5,8,40,"Credit Card",In-store,2023-06-07,FALSE
+4954934,13,"Computers and electric accessories",Item_20_CEA,34,4,134,Cash,In-store,2024-08-13,TRUE
+3032195,7,Beverages,Item_2_BEV,7,6,39,"Digital Wallet",Online,2022-02-14,TRUE
+4104623,9,Butchers,Item_15_BUT,26,2,52,Cash,Online,2024-10-25,FALSE
+9535889,8,"Electric household essentials",Item_17_EHE,29,1,29,"Credit Card",Online,2024-03-20,FALSE
+6950644,13,"Milk Products",Item_21_MILK,35,7,245,"Credit Card",Online,2024-11-20,FALSE
+7948898,25,Patisserie,Item_14_PAT,25,2,49,Cash,Online,2022-07-17,TRUE
+6375978,23,"Milk Products",Item_11_MILK,20,10,200,"Digital Wallet",In-store,2022-04-07,FALSE
+2090456,5,Butchers,NULL,40,10,395,Cash,In-store,2023-12-15,TRUE
+3974668,24,Furniture,Item_8_FUR,16,3,46.5,"Digital Wallet",Online,2024-03-22,TRUE
+5403498,16,Furniture,Item_7_FUR,14,7,98,"Credit Card",In-store,2024-05-18,FALSE
+6255024,14,Beverages,Item_19_BEV,32,3,96,"Digital Wallet",Online,2023-07-18,FALSE
+9094922,23,"Electric household essentials",Item_19_EHE,32,5,160,"Credit Card",In-store,2022-07-12,FALSE
+3928788,23,Food,Item_14_FOOD,25,8,196,"Credit Card",Online,2024-04-29,TRUE
+2306841,4,Furniture,Item_23_FUR,38,2,76,Cash,In-store,2023-05-06,FALSE
+4176444,14,Butchers,Item_21_BUT,35,2,70,"Digital Wallet",In-store,2022-10-15,FALSE
+6651280,18,Patisserie,Item_16_PAT,28,6,165,"Digital Wallet",In-store,2022-12-05,TRUE
+5085529,5,"Computers and electric accessories",Item_21_CEA,35,10,350,"Credit Card",In-store,2023-09-22,FALSE
+9454633,16,Butchers,Item_20_BUT,34,5,167.5,"Credit Card",In-store,2024-04-04,TRUE
+4298148,18,Butchers,Item_12_BUT,22,8,172,"Credit Card",Online,2022-01-11,TRUE
+7459810,9,Food,Item_7_FOOD,14,8,112,"Digital Wallet",Online,2022-12-01,FALSE
+9834766,4,Butchers,Item_22_BUT,37,9,328.5,"Credit Card",Online,2023-10-24,TRUE
+3051299,20,Food,Item_14_FOOD,25,10,245,"Digital Wallet",Online,2025-01-11,TRUE
+5276329,9,Food,Item_5_FOOD,11,1,11,Cash,Online,2023-12-18,FALSE
+9472056,16,"Milk Products",Item_8_MILK,16,7,108.5,Cash,In-store,2024-06-22,TRUE
+9328530,19,Furniture,Item_12_FUR,22,10,215,"Credit Card",Online,2023-06-28,TRUE
+9442074,6,Butchers,Item_7_BUT,14,6,84,"Credit Card",Online,2023-10-24,FALSE
+1860632,18,"Computers and electric accessories",Item_14_CEA,25,8,196,Cash,In-store,2022-11-30,TRUE
+8655596,15,"Computers and electric accessories",Item_13_CEA,23,6,138,"Credit Card",In-store,2024-12-29,FALSE
+7516693,1,Food,Item_14_FOOD,25,2,49,"Digital Wallet",Online,2023-04-19,TRUE
+9501990,4,"Milk Products",Item_1_MILK,5,5,25,Cash,In-store,2022-02-18,FALSE
+6616600,17,Food,Item_11_FOOD,20,4,80,"Digital Wallet",In-store,2022-11-20,FALSE
+4494866,22,"Computers and electric accessories",Item_2_CEA,7,4,26,"Credit Card",In-store,2024-03-11,TRUE
+7145436,24,"Milk Products",Item_24_MILK,40,8,316,Cash,In-store,2024-08-18,TRUE
+1530750,8,"Milk Products",Item_1_MILK,5,2,10,Cash,Online,2022-11-12,FALSE
+9066396,9,Furniture,Item_10_FUR,19,2,37,"Digital Wallet",Online,2023-03-21,TRUE
+8866685,13,"Electric household essentials",Item_21_EHE,35,1,35,"Digital Wallet",Online,2022-08-04,FALSE
+2985819,13,Beverages,Item_17_BEV,29,9,261,"Digital Wallet",Online,2023-09-07,FALSE
+9803487,13,Beverages,Item_4_BEV,10,5,47.5,"Credit Card",Online,2023-03-29,TRUE
+5726935,9,"Milk Products",Item_13_MILK,23,9,207,"Credit Card",Online,2022-02-23,FALSE
+1638586,6,Food,Item_6_FOOD,13,6,75,"Digital Wallet",Online,2023-05-19,TRUE
+9012270,18,Beverages,Item_17_BEV,29,4,116,"Digital Wallet",Online,2022-10-17,FALSE
+8454077,11,"Computers and electric accessories",NULL,8,2,16,Cash,Online,2023-02-15,FALSE
+5684370,11,"Computers and electric accessories",Item_19_CEA,32,5,160,Cash,In-store,2022-10-06,FALSE
+8625922,8,Beverages,Item_6_BEV,13,10,125,"Credit Card",Online,2023-12-22,TRUE
+9193765,11,"Milk Products",Item_16_MILK,28,10,275,"Digital Wallet",In-store,2023-09-13,TRUE
+8466158,6,Patisserie,Item_23_PAT,38,4,152,"Credit Card",Online,2023-04-08,FALSE
