@@ -25,4 +25,33 @@ Final Dataset:
 
 
 
+Tableau Visualization:
+- Showing an overview of all the sales, and interactively display customer spending patterns for discounted categories
+
+![image](https://github.com/user-attachments/assets/450f60cf-9677-404d-84df-84d680687f9b)
+
+- Tracked peak month in sales performance for each category
+- Highlighted months that are above 50th percentile in sales
+
+![image](https://github.com/user-attachments/assets/5a176f45-1d48-4d87-9b77-94a9212555c5)
+
+- Used complex include LOD expressions to craft an interactive KPI that represents the sales and month name in peak months
+
+![image](https://github.com/user-attachments/assets/2e03182b-4cd0-4d63-a546-ddddb9cd3db2)
+
+- Visualized trends of when sales for each category reach its peak
+
+![image](https://github.com/user-attachments/assets/e858ff81-3da7-42d5-8f79-80fa39c8cd2b)
+
+- Interactively identify customer locational preference for purchasing each category
+
+![image](https://github.com/user-attachments/assets/63145a12-cabf-474e-ac5d-d9f2f489c872)
+
+![image](https://github.com/user-attachments/assets/4e8f3ed3-5b98-47ec-af13-33767ab4b787)
+Image showing when 'Beverages' is selected to show percentage differences between Online and In-store purchases
+
+
+
+
+
 
